@@ -4,5 +4,5 @@ This repo is dedicated to code related to Professor Malmendier's Politician Expe
 
 ## Code
 
-* Generating Bios File: downloads the data from the website and generates a file containing all infos for the legislators
-* Parse birth Places and School: takes in the bios of the legislator and outputs a file with appended birth places and school columns.
+* `Generating Bios File.ipynb`: takes in the bioguide `.json` files and generates a `csv` file containing infos for the legislators
+* `Parse birth Places and School.ipynb`: takes in the `.csv` bios of the legislator and outputs a file with appended birth places and school columns.
