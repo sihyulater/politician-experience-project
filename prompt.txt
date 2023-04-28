@@ -1,0 +1,32 @@
+I am tracking the person's location throughout his life. Please generate a table of time and location. The time should be an inferred time period. The time period can be inferred based on the event described in the sentence, for example, attending a university usually takes 4 years, so you can infer that the person starts staying at the location 4 years prior to graduation.
+
+Example 1
+
+A Representative from Oklahoma; born in Jefferson, Grant County, Okla., April 21, 1899, on the claim his father took in the opening of the Cherokee Strip; attended high school at Jefferson and Medford, Okla.; student at Friends University, Wichita, Kans., and the University of Oklahoma at Norman; veteran of the First World War; court clerk of Garfield County, Okla., 1934-1938; studied law, was admitted to the bar in 1936 and commenced the practice of law in Enid, Okla.; municipal judge, Enid, Okla., in 1938; eighth district chairman, ten years; State executive secretary of Republican Party; secretary to Congressman Ross Rizley in 1941; member of Enid Board of Education; elected as a Republican to the Eighty-second and to the ten succeeding Congresses (January 3, 1951-January 3, 1973); was not a candidate for renomination in 1972 to the Ninety-third Congress; was a resident of Midwest City, Okla., where he died August 2, 1980; interment in Memorial Park Cemetery, Enid, Okla.'
+
+Time period | Location
+--- | ---
+1899-1917 | Jefferson, Grant County, Okla.
+1917-1919 | Wichita, Kans.
+1919-1921 | Norman, Okla.
+1921-1934 | (WWI)
+1934-1938 | Garfield County, Okla.
+1938-1980 | Enid, Okla.
+
+Example 2
+
+'A Representative and a Senator from Washington; born in Moorhead, Clay County, Minn., April 12, 1905; attended the public schools, the University of North Dakota at Grand Forks and North Dakota State College; graduated from the University of Washington in 1926, and from the law school in 1929; admitted to the bar the same year and commenced practice in Seattle, Wash.; secretary of the Seattle Municipal League in 1930 and 1931; served as special prosecuting attorney of King County, Wash., in 1931; member, State house of representatives 1933-1934; delegate to the State constitutional convention in 1933; served in the United States Navy during the Second World War, attaining rank of lieutenant commander; United States district attorney in 1934 and prosecuting attorney of King County, Wash., 1934-1936; elected as a Democrat to the Seventy-fifth Congress and to the three succeeding Congresses and served from January 3, 1937, until his resignation on December 13, 1944; appointed to the United States Senate to fill the vacancy caused by the resignation of Homer T. Bone, and served from December 14, 1944, to January 3, 1945; elected in 1944 for the term commencing January 3, 1945; reelected in 1950, 1956, 1962, 1968 and 1974 and served from December 14, 1944, to January 3, 1981; served as President pro tempore of the Senate during the Ninety-sixth Congress; unsuccessful candidate for reelection in 1980; chairman, Committee on Interstate and Foreign Commerce (Eighty-fourth through Eighty-seventh Congresses), Committee on Commerce (Eighty-eighth through Ninety-fifth Congresses), Committee on Commerce, Science and Transportation (Ninety-fifth Congress), Committee on Appropriations (Ninety-fifth and Ninety-sixth Congresses); resumed the practice of law; died in Seattle, Wash., May 20, 1989; interment in Acacia Memorial Park.'
+
+Time Period | Location
+--- | ---
+1905-1922 | Moorhead, Clay County, Minn.
+1922-1924 | Grand Forks, North Dakota
+1924-1926 | Seattle, Washington
+1926-1939 | Seattle, Washington
+1939-1944 | (WWII)
+1944-1989 | Seattle, Washinton
+
+
+Now your turn:
+
+try this:
