@@ -5,6 +5,8 @@ This repo is dedicated to code related to Professor Malmendier's Politician Expe
 ## Data source
 The `BioguideProfiles` folder was downloaded from [Biography Directory of the United States](https://bioguide.congress.gov/).
 
+The `H102_votes.csv`, `HSall_members.csv`, `HSall_votes.csv` were all downloaded from [Voteview.com](https://www.voteview.com/data) 
+
 ## Code
 
 * `01 Generating Bios File.ipynb`: takes in all the bioguide `json` files under `BioguideProfiles`, and outputs `results/bioguide.csv`, which contains all information from the json files.
