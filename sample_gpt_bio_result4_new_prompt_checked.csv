@@ -1,0 +1,1697 @@
+id,bio,api_out,correct,error_code,
+E000187,"A Representative from Pennsylvania; born in Erie, Erie County, Pa., June 20, 1956; B.A., University of Pennsylvania, Philadelphia, Pa., 1978; committee staff aide, Pennsylvania state senate; Erie County, Pa., controller, 1985-1988; unsuccessful candidate for Pennsylvania state treasurer, 1988; chief of staff for Pennsylvania state senator Melissa Hart, 1990-1994; delegate to Republican National Convention in 1984, 2000, and 2004; elected as a Republican to the One Hundred Fourth and to the six succeeding Congresses (January 3, 1995-January 3, 2009); unsuccessful candidate for reelection to the One Hundred Eleventh Congress in 2008.","Time Period | Location
+--- | ---
+1956-1974 | Erie, Erie County, Pa.
+1974-1978 | Philadelphia, Pa.
+1978-1985 | (committee staff aide, Pennsylvania state senate)
+1985-1988 | Erie County, Pa.
+1990-1994 | (chief of staff for Pennsylvania state senator Melissa Hart)
+1995-2009 | (Congress)","Time Period | Location
+--- | ---
+1956-1974 | Erie, Erie County, Pa.
+1974-1978 | Philadelphia, Pa.
+1978-1985 | (committee staff aide, Pennsylvania state senate)
+1985-1988 | Erie County, Pa.
+1990-1994 | (chief of staff for Pennsylvania state senator Melissa Hart)
+1995-2009 | (Congress)",0,
+D000299,"a Representative from Florida; born in Havana, Cuba, August 13, 1954; graduated from the American School of Madrid, Madrid, Spain, 1972; B.A., New College, University of South Florida, Sarasota, Fla., 1976; J.D., Case Western Reserve University, Cleveland, Ohio, 1979; lawyer, private practice; member of the Florida state house of representatives, 1987-1989; member of the Florida state senate, 1989-1992; elected as a Republican to the One Hundred Third and to the eight succeeding Congresses (January 3, 1993-January 3, 2011); not a candidate for reelection to the One Hundred Twelfth Congress in 2010.","Time Period | Location
+--- | ---
+1954-1970 | Havana, Cuba
+1970-1972 | Madrid, Spain
+1972-1976 | Sarasota, Fla.
+1976-1979 | Cleveland, Ohio
+1987-1989 | (Florida state house of representatives)
+1989-1992 | (Florida state senate)
+1993-2011 | (Congress)","Time Period | Location
+--- | ---
+1954-1968 | Havana, Cuba
+1968-1972 | Madrid, Spain
+1972-1976 | Sarasota, Fla.
+1976-1979 | Cleveland, Ohio
+1987-1989 | (Florida state house of representatives)
+1989-1992 | (Florida state senate)
+1993-2011 | (Congress)",1,
+D000191,"A Representative from Oregon; born in Needham, Norfolk County, Mass., May 27, 1947; graduated from Needham High School, Needham, Mass., 1965; B.A., Tufts University, Medford, Mass., 1969; M.A., University of Oregon, Eugene, Oreg., 1977; United States Air Force Reserve, 1967-1971; staff, United States Representative James Howard Weaver of Oregon, 1977-1982; member of the Lane County, Oreg., board of commissioners, 1983-1986, chair, 1985-1986; unsuccessful candidate for nomination to the United States Senate in a special primary election in 1995; elected as a Democrat to the One Hundredth and to the seventeen succeeding Congresses (January 3, 1987-January 3, 2023); chair, Committee on Transportation and Infrastructure (One Hundred Sixteenth and One Hundred Seventeenth Congresses); was not a candidate for reelection to the One Hundred Eighteenth Congress in 2022.","Time Period | Location
+--- | ---
+1947-1961 | Needham, Norfolk County, Mass.
+1961-1965 | Needham, Mass.
+1965-1969 | Medford, Mass.
+1969-1977 | Eugene, Oreg.
+1977-1982 | (staff, United States Representative James Howard Weaver of Oregon)
+1983-1986 | Lane County, Oreg.
+1987-2023 | (Congress)","Time Period | Location
+--- | ---
+1947-1961 | Needham, Norfolk County, Mass.
+1961-1965 | Needham, Mass.
+1965-1969 | Medford, Mass.
+1969-1977 | Eugene, Oreg.
+1977-1982 | (staff, United States Representative James Howard Weaver of Oregon)
+1983-1986 | Lane County, Oreg.
+1987-2023 | (Congress)",0,
+P000616,"A Representative from Minnesota; born in St. Paul, Ramsey County, Minn., January 20, 1969; graduated from The Blake School, Hopkins, Minn., 1987; B.A., Brown University, Providence, R.I., 1991; M.B.A., University of Minnesota, Minneapolis, Minn., 2000; businessman; elected as a Democrat to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present).","Time Period | Location
+--- | ---
+1969-1983 | St. Paul, Ramsey County, Minn.
+1983-1987 | Hopkins, Minn.
+1987-1991 | Providence, R.I.
+1991-2000 | Minneapolis, Minn.
+2019-present | (Congress)","Time Period | Location
+--- | ---
+1969-1983 | St. Paul, Ramsey County, Minn.
+1983-1987 | Hopkins, Minn.
+1987-1991 | Providence, R.I.
+1991-2000 | Minneapolis, Minn.
+2019-present | (Congress)",0,
+M001134,"A Representative from North Carolina; born in Tiffin, Seneca County, Ohio, August 1, 1941; graduated from Port Clinton High School, Port Clinton, Ohio; attended Heidelberg College, Tiffin, Ohio, 1959-1960; at-large member, Charlotte, N.C., city council, 1983-1985; mayor, Charlotte, N.C., 1987-1991; unsuccessful candidate for nomination to the United States Senate in 1992; elected as a Republican to the One Hundred Fourth and to the eight succeeding Congresses (January 3, 1995-January 3, 2013); was not a candidate for reelection to the One Hundred Thirteenth Congress in 2012.","Time Period | Location
+--- | ---
+1941-1959 | Tiffin, Seneca County, Ohio
+1959-1960 | Tiffin, Ohio
+1960-1983 | Charlotte, N.C.
+1983-1985 | Charlotte, N.C. (city council)
+1987-1991 | Charlotte, N.C. (mayor)
+1995-2013 | (Congress)","Time Period | Location
+--- | ---
+1941-1956 | Tiffin, Seneca County, Ohio
+1956-1960 | Tiffin, Ohio
+1960-1983 | Charlotte, N.C.
+1983-1985 | Charlotte, N.C. (city council)
+1987-1991 | Charlotte, N.C. (mayor)
+1995-2013 | (Congress)",0,correction in years but has no effect on result
+L000588,"a Representative from Pennsylvania; born in Washington, D.C., June 27, 1984; graduated from Central Catholic High School, Pittsburgh, Pa., 2002; graduated from University of Pennsylvania, Philadelphia, Pa., 2006; J.D., University of Pennsylvania, Philadelphia, Pa., 2009; United States Marine Corps, 2009-2013; United States Marine Corps Reserve; assistant United States attorney for the Western District of Pennsylvania, 2014-2017; elected as a Democrat to the One Hundred Fifteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Timothy Murphy, and reelected to the two succeeding Congresses (March 13, 2018-January 3, 2023); was not a candidate for reelection to the One Hundred Eighteenth Congress in 2022, but was an unsuccessful candidate for nomination to the United States Senate.","Time Period | Location
+--- | ---
+1984-1998 | Washington, D.C.
+1998-2002 | Pittsburgh, Pa.
+2002-2006 | Philadelphia, Pa.
+2006-2009 | Philadelphia, Pa.
+2009-2013 | (United States Marine Corps)
+2014-2017 | (assistant United States attorney for the Western District of Pennsylvania)
+2018-2023 | (Congress)","Time Period | Location
+--- | ---
+1984-1998 | Washington, D.C.
+1998-2002 | Pittsburgh, Pa.
+2002-2006 | Philadelphia, Pa.
+2006-2009 | Philadelphia, Pa.
+2009-2013 | (United States Marine Corps)
+2014-2017 | (assistant United States attorney for the Western District of Pennsylvania)
+2018-2023 | (Congress)",0,
+G000061,"a Representative from California; born in Granada Hills, Los Angeles County, Calif., April 24, 1976; graduated from Saugus High School, Santa Clarita, Calif., 1994; B.S., United States Naval Academy, Annapolis, Md., 1998; M.A., Georgetown University, Washington, D.C., 1998; United States Navy, 1999-2009; United States Navy Reserve, 2009-2012; business executive; real estate developer; elected as a Republican to the One Hundred Sixteenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Katie Hill, and reelected to the two succeeding Congresses (May 12, 2020-present).","Time Period | Location
+--- | ---
+1976-1990 | Granada Hills, Los Angeles County, Calif.
+1990-1994 | Santa Clarita, Calif.
+1994-1998 | Annapolis, Md.
+1998-1999 | Washington, D.C.
+1999-2009 | (United States Navy)
+2009-2012 | (United States Navy Reserve)
+2020-present | (Congress)","Time Period | Location
+--- | ---
+1976-1990 | Granada Hills, Los Angeles County, Calif.
+1990-1994 | Santa Clarita, Calif.
+1994-1998 | Annapolis, Md.
+1998-1999 | Washington, D.C.
+1999-2009 | (United States Navy)
+2009-2012 | (United States Navy Reserve)
+2020-present | (Congress)",0,
+D000533,"A Representative from Tennessee; born in Lebanon, Wilson County, Tenn., July 21, 1947; graduated from Holston High School, Knoxville, Tenn.; B.S., University of Tennessee, Knoxville, Tenn., 1969; J.D., National Law Center, George Washington University, Washington, D.C., 1973; lawyer, private practice; Army National Guard, 1970-1987; United States Army Reserve, 1970-1987; state trial judge, Knox County, Tenn., 1981-1988; elected as a Republican to the One Hundredth Congress, by special election, to fill the vacancy caused by the death of his father, John J. Duncan, and simultaneously elected to the One Hundred First Congress; reelected to the One Hundred Second and to the thirteen succeeding Congresses (November 8, 1988-January 3, 2019); was not a candidate for reelection to the One Hundred Sixteenth Congress in 2018.","Time Period | Location
+--- | ---
+1947-1965 | Lebanon, Wilson County, Tenn.
+1965-1969 | Knoxville, Tenn.
+1969-1973 | Washington, D.C.
+1973-1981 | (private practice, location not specified)
+1981-1988 | Knox County, Tenn.
+1988-2019 | (Congress)","Time Period | Location
+--- | ---
+1947-1961 | Lebanon, Wilson County, Tenn.
+1961-1969 | Knoxville, Tenn.
+1969-1973 | Washington, D.C.
+1973-1981 | (private practice, location not specified)
+1981-1988 | Knox County, Tenn.
+1988-2019 | (Congress)",1,
+K000188,"A Representative from Wisconsin; born in La Crosse, La Crosse County, Wis., March 16, 1963; B.A., Harvard University, Cambridge, Mass., 1985; M.A., London School of Economics, London, England, 1986; J.D., University of Minnesota School of Law, Minneapolis, Minn., 1990; lawyer, private practice; state prosecutor, La Crosse County, Wis., district attorney&rsquo;s office, 1992-1996; elected as a Democrat to the One Hundred Fifth and to the twelve succeeding Congresses (January 3, 1997-January 3, 2023); was not a candidate for reelection to the One Hundred Eighteenth Congress in 2022.","Time Period | Location
+--- | ---
+1963-1981 | La Crosse, La Crosse County, Wis.
+1981-1985 | Cambridge, Mass.
+1985-1986 | London, England
+1986-1990 | Minneapolis, Minn.
+1992-1996 | La Crosse County, Wis.
+1997-2023 | (Congress)","Time Period | Location
+--- | ---
+1963-1981 | La Crosse, La Crosse County, Wis.
+1981-1985 | Cambridge, Mass.
+1985-1986 | London, England
+1986-1990 | Minneapolis, Minn.
+1992-1996 | La Crosse County, Wis.
+1997-2023 | (Congress)",0,
+M000485,"A Representative from North Carolina; born in Lumberton, Robeson County, N.C., August 6, 1956; graduated from Lumberton High School, Lumberton, N.C., 1974; B.A., University of North Carolina, Chapel Hill, N.C., 1978; J.D., University of North Carolina, Chapel Hill, N.C., 1981; lawyer, private practice; delegate to the Democratic National Convention, 1980; North Carolina commission on children and youth, 1987-1989; North Carolina commission on the family, 1989-1991; elected as a Democrat to the One Hundred Fifth and to the eight succeeding Congresses (January 3, 1997-January 3, 2015); was not a candidate for renomination to the One Hundred Fourteenth Congress in 2014.","Time Period | Location
+--- | ---
+1956-1970 | Lumberton, Robeson County, N.C.
+1970-1974 | Lumberton, N.C.
+1974-1978 | Chapel Hill, N.C.
+1978-1981 | Chapel Hill, N.C.
+1981-1997 | (lawyer, private practice)
+1997-2015 | (Congress)","Time Period | Location
+--- | ---
+1956-1970 | Lumberton, Robeson County, N.C.
+1970-1974 | Lumberton, N.C.
+1974-1978 | Chapel Hill, N.C.
+1978-1981 | Chapel Hill, N.C.
+1981-1997 | (lawyer, private practice)
+1997-2015 | (Congress)",0,
+M001201,"A Representative from Michigan; November 14, 1956; B.A., Michigan State University, Lansing, Mich., 1978; businessman; business executive; member of the St. Clair, Mich., city council; unsuccessful candidate for nomination to the One Hundred Fourteenth Congress in 2014; elected as a Republican to the One Hundred Fifteenth and to the succeeding Congress (January 3, 2017-January 3, 2021); changed party affiliation from a Republican to an Independent on December 15, 2020; was not a candidate for reelection to the One Hundred Seventeenth Congress in 2020; died on August 15, 2021.","Time Period | Location
+--- | ---
+1956-1974 | Michigan
+1974-1978 | Lansing, Mich.
+1978-2014 | St. Clair, Mich.
+2017-2021 | (Congress)","Time Period | Location
+--- | ---
+1956-1974 | Michigan
+1974-1978 | Lansing, Mich.
+1978-2014 | St. Clair, Mich.
+2017-2021 | (Congress)",0,
+E000290,"a Representative from Maryland; born in Yanceyville, Caswell County, N.C., June 28, 1958; graduated from Thomas Stone High School, Waldorf, Md.; B.A., Wake Forest University, Winston-Salem, N.C., 1980; J.D., Franklin Pierce Law Center, Concord, N. H., 1989; lawyer, private practice; clerk, District of Columbia Superior Court Judge; executive director, National Network to End Domestic Violence; executive director, Center for a New Democracy; executive director, The Arca Foundation; elected as a Democrat to the One Hundred Tenth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Albert Russell Wynn, and reelected to the four succeeding Congresses (June 17, 2008-January 3, 2017); was not a candidate for reelection to the One Hundred Fifteenth Congress in 2016, but was an unsuccessful candidate for nomination to the United States Senate; unsuccessful candidate for nomination to the One Hundred Eighteenth Congress in 2022.","Time Period | Location
+--- | ---
+1958-1972 | Yanceyville, Caswell County, N.C.
+1972-1976 | Waldorf, Md.
+1976-1980 | Winston-Salem, N.C.
+1985-1989 | Concord, N. H.
+1989-2008 | (Various locations due to different roles)
+2008-2017 | (Congress)","Time Period | Location
+--- | ---
+1958-1972 | Yanceyville, Caswell County, N.C.
+1972-1976 | Waldorf, Md.
+1976-1980 | Winston-Salem, N.C.
+1985-1989 | Concord, N. H.
+1989-2008 | (Various locations due to different roles)
+2008-2017 | (Congress)",0,
+R000588,"a Representative from Louisiana; born in New Orleans, Orleans Parish, La., September 13, 1973; graduated from Benjamin Franklin High School, New Orleans, La., 1991; B.A., Morehouse College, Atlanta, Ga., 1995; J.D., Tulane University, New Orleans, La., 1998; member of the Louisiana state house of representatives, 1999-2011; unsuccessful candidate for nomination to the One Hundred Eleventh Congress in 2008; elected as a Democrat to the One Hundred Twelfth and to the five succeeding Congresses until his resignation on January 15, 2021 (January 3, 2011-January 15, 2021); Senior Advisor and Director, Office of Public Engagement, White House, 2021-2022.","Time Period | Location
+--- | ---
+1973-1987 | New Orleans, Orleans Parish, La.
+1987-1991 | New Orleans, La.
+1991-1995 | Atlanta, Ga.
+1995-1998 | New Orleans, La.
+1999-2011 | (Louisiana state house of representatives)
+2011-2021 | (Congress)
+2021-2022 | (Office of Public Engagement, White House)","Time Period | Location
+--- | ---
+1973-1987 | New Orleans, Orleans Parish, La.
+1987-1991 | New Orleans, La.
+1991-1995 | Atlanta, Ga.
+1995-1998 | New Orleans, La.
+1999-2011 | (Louisiana state house of representatives)
+2011-2021 | (Congress)
+2021-2022 | (Office of Public Engagement, White House)",0,
+C001069,"a Representative from Connecticut; born in West Hartford, Tolland County, Conn., April 6, 1953; B.A., Tufts University, Medford, Mass, 1975; J.D., University of Connecticut, Storrs, Conn., 1978; lawyer, private practice; member of the Connecticut state house of representatives, 1987-1994; elected as a Democrat to the One Hundred Tenth and to the eight succeeding Congresses (January 3, 2007-present).","Time Period | Location
+--- | ---
+1953-1971 | West Hartford, Tolland County, Conn.
+1971-1975 | Medford, Mass
+1975-1978 | Storrs, Conn.
+1987-1994 | (Connecticut state house of representatives)
+2007-present | (Congress)","Time Period | Location
+--- | ---
+1953-1971 | West Hartford, Tolland County, Conn.
+1971-1975 | Medford, Mass
+1975-1978 | Storrs, Conn.
+1987-1994 | (Connecticut state house of representatives)
+2007-present | (Congress)",0,
+B001295,"A Representative from Illinois; born in Murphysboro, Jackson County, Ill., December 30, 1960; graduated from Murphysboro High School, Murphysboro, Ill., 1979; Certified Firefighter II Academy, University of Illinois, 1993; United States Marine Corps, 1979-1982; truck manager; firefighter; business owner; member of the Jackson County, Ill., board, 1984-1988; Murphysboro Township, Ill., treasurer, 1989-1992; Murphysboro Township, Ill., trustee, 1993-1995; member of the Illinois state house of representatives, 1995-2014; elected as a Republican to the One Hundred Fourteenth and to the four succeeding Congresses (January 3, 2015-present); chair, Committee on Veterans' Affairs (One Hundred Eighteenth Congress).","Time Period | Location
+--- | ---
+1960-1979 | Murphysboro, Jackson County, Ill.
+1979-1982 | (United States Marine Corps)
+1984-1988 | Jackson County, Ill.
+1989-1992 | Murphysboro Township, Ill.
+1993-1995 | Murphysboro Township, Ill.
+1995-2014 | (Illinois state house of representatives)
+2015-present | (Congress)","Time Period | Location
+--- | ---
+1960-1979 | Murphysboro, Jackson County, Ill.
+1979-1982 | (United States Marine Corps)
+1984-1988 | Jackson County, Ill.
+1989-1992 | Murphysboro Township, Ill.
+1993-1995 | Murphysboro Township, Ill.
+1995-2014 | (Illinois state house of representatives)
+2015-present | (Congress)",0,
+H000981,"a Representative from California; born in Riverside, Riverside County, Calif., May 31, 1948; graduated from Rubidoux High School, Riverside, Calif., 1966; B.S., Western State University, San Diego, Calif., 1968; J.D., Western State University, San Diego, Calif., 1976; United States Army Airborne, 1969-1971; lawyer, private practice; elected as a Republican to the Ninety-seventh and to the thirteen succeeding Congresses (January 3, 1981-January 3, 2009); was not a candidate for reelection to the One Hundred Eleventh Congress in 2008; chair, Committee on Armed Services (One Hundred Eighth and One Hundred Ninth Congress); unsuccessful candidate for the Republican nomination for President of the United States in 2008.","Time Period | Location
+--- | ---
+1948-1962 | Riverside, Riverside County, Calif.
+1962-1966 | Riverside, Calif.
+1966-1968 | San Diego, Calif.
+1969-1971 | (United States Army Airborne)
+1972-1976 | San Diego, Calif.
+1981-2009 | (Congress)","Time Period | Location
+--- | ---
+1948-1962 | Riverside, Riverside County, Calif.
+1962-1966 | Riverside, Calif.
+1966-1968 | San Diego, Calif.
+1969-1971 | (United States Army Airborne)
+1972-1976 | San Diego, Calif.
+1981-2009 | (Congress)",0,
+H001061,"A Senator from North Dakota; born in Bismarck, N.D., March 13, 1957; graduated Dartmouth College, B.A., 1979; graduated Northwestern University, M.B.A., 1981; bank president and CEO; governor of North Dakota 2000-2010; elected as a Republican to the United States Senate in 2010; reelected in 2016, and again in 2022 for the term ending January 3, 2029; chair, Committee on Indian Affairs (One Hundred Fifteenth and One Hundred Sixteenth Congresses).","Time Period | Location
+--- | ---
+1957-1975 | Bismarck, N.D.
+1975-1979 | (Dartmouth College)
+1979-1981 | (Northwestern University)
+1981-2000 | (bank president and CEO)
+2000-2010 | (governor of North Dakota)
+2010-2029 | (United States Senate)","Time Period | Location
+--- | ---
+1957-1975 | Bismarck, N.D.
+1975-1979 | Dartmouth College
+1979-1981 | Northwestern University
+1981-2000 | (bank president and CEO)
+2000-2010 | (governor of North Dakota)
+2010-2029 | (United States Senate)",2,
+D000633,"a Representative from California; born in Modesto, Stanislaus County, Calif., September 9, 1966; B.S., San Diego State University, San Diego, Calif., 1989; M.B.A., University of the Pacific, Stockton, Calif., 1997; farmer; business owner; elected as a Republican to the One Hundred Eighteenth Congress (January 3, 2023-present).","Time Period | Location
+--- | ---
+1966-1984 | Modesto, Stanislaus County, Calif.
+1984-1989 | San Diego, Calif.
+1989-1997 | Stockton, Calif.
+1997-2023 | (farmer; business owner)
+2023-present | (Congress)","Time Period | Location
+--- | ---
+1966-1984 | Modesto, Stanislaus County, Calif.
+1984-1989 | San Diego, Calif.
+1989-1997 | Stockton, Calif.
+1997-2023 | (farmer; business owner)
+2023-present | (Congress)",0,
+M001195,"A Representative from West Virginia; born in Washington, D.C., June 7, 1971; graduated from Frederick High School, Frederick, Md.; A.B., Dartmouth College, Hanover, N.H., 1993; unsuccessful candidate for the New Hampshire state house of representatives, 1992; staff, United States Representative Roscoe Gardner Bartlett of Maryland, 1993-1995; staff, House Republican Conference, 1995; member of the Maryland state senate, 1999-2010; chairman, Maryland Republican Party, 2010-2013; member, Republican National Committee, 2011-2013; elected as a Republican to the One Hundred Fourteenth and to the four succeeding Congresses (January 3, 2015-present).","Time Period | Location
+--- | ---
+1971-1985 | Washington, D.C.
+1985-1989 | Frederick, Md.
+1989-1993 | Hanover, N.H.
+1993-1995 | (staff, United States Representative Roscoe Gardner Bartlett of Maryland)
+1995 | (staff, House Republican Conference)
+1999-2010 | (member of the Maryland state senate)
+2010-2013 | (chairman, Maryland Republican Party)
+2011-2013 | (member, Republican National Committee)
+2015-present | (Congress)","Time Period | Location
+--- | ---
+1971-1985 | Washington, D.C.
+1985-1989 | Frederick, Md.
+1989-1993 | Hanover, N.H.
+1993-1995 | (staff, United States Representative Roscoe Gardner Bartlett of Maryland)
+1995 | (staff, House Republican Conference)
+1999-2010 | (member of the Maryland state senate)
+2010-2013 | (chairman, Maryland Republican Party)
+2011-2013 | (member, Republican National Committee)
+2015-present | (Congress)",0,
+F000459,"A Representative from Tennessee; born in Manhattan, New York County, N.Y., October 11, 1962; graduated from Elk Grove High School, Elk Grove, Ill., 1980; B.A., University of Illinois, Urbana-Champaign, Ill., 1983; J.D., University of Tennessee, Knoxville, Tenn., 1986; lawyer, private practice; elected as a Republican to the One Hundred Twelfth and to the six succeeding Congresses (January 3, 2011-present).","Time Period | Location
+--- | ---
+1962-1976 | Manhattan, New York County, N.Y.
+1976-1980 | Elk Grove, Ill.
+1980-1983 | Urbana-Champaign, Ill.
+1983-1986 | Knoxville, Tenn.
+2011-present | (Congress)","Time Period | Location
+--- | ---
+1962-1976 | Manhattan, New York County, N.Y.
+1976-1980 | Elk Grove, Ill.
+1980-1983 | Urbana-Champaign, Ill.
+1983-1986 | Knoxville, Tenn.
+2011-present | (Congress)",0,
+C001075,"A Senator and a Representative from Louisiana; born in Highland Park, Lake County, Ill., September 28, 1957; B.S., Louisiana State University, Baton Rouge, La., 1979; M.D., Louisiana State University Medical School, New Orleans, La., 1983; physician; member of the Louisiana state senate, 2006-2008; elected as a Republican to the One Hundred Eleventh and to the two succeeding Congresses (January 3, 2009-January 3, 2015); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2014 for the term ending January 3, 2021; reelected in 2020 for the term ending January 3, 2027.","Time Period | Location
+--- | ---
+1957-1975 | Highland Park, Lake County, Ill.
+1975-1979 | Baton Rouge, La.
+1979-1983 | New Orleans, La.
+2006-2008 | (Louisiana state senate)
+2009-2015 | (Congress)
+2015-2027 | (United States Senate)","Time Period | Location
+--- | ---
+1957-1975 | Highland Park, Lake County, Ill.
+1975-1979 | Baton Rouge, La.
+1979-1983 | New Orleans, La.
+2006-2008 | (Louisiana state senate)
+2009-2015 | (Congress)
+2015-2027 | (United States Senate)",0,
+W000816,"A Representative from Texas; born in Evanston, Cook County, Ill., September 13, 1949; graduated from Arlington Heights High School, Fort Worth, Tex., 1967; B.A., Texas Christian University, Fort Worth, Tex., 1972; professional athlete, 1971-1973; professional baseball coach; baseball coach, Texas Christian University, Fort Worth, Tx., 1974-1976; small business owner; Texas secretary of state, 2005-2007; elected as a Republican to the One Hundred Thirteenth and to the five succeeding Congresses (January 3, 2013-present); chair, Committee on Small Business (One Hundred Eighteenth Congress).","Time Period | Location
+--- | ---
+1949-1963 | Evanston, Cook County, Ill.
+1963-1967 | Fort Worth, Tex.
+1967-1972 | Fort Worth, Tex.
+1971-1973 | (professional athlete)
+1974-1976 | Fort Worth, Tx.
+2005-2007 | (Texas secretary of state)
+2013-present | (Congress)","Time Period | Location
+--- | ---
+1949-1963 | Evanston, Cook County, Ill.
+1963-1967 | Fort Worth, Tex.
+1967-1972 | Fort Worth, Tex.
+1971-1973 | (professional athlete)
+1974-1976 | Fort Worth, Tx.
+2005-2007 | (Texas secretary of state)
+2013-present | (Congress)",0,
+D000429,"A Representative from California; born in Glendale, Los Angeles County, Calif., October 30, 1950; graduated from Cupertino High School, Cupertino, Calif., 1968; B.A., University of California, Santa Cruz, Calif., 1972; J.D., University of the Pacific, McGeorge School of Law, Stockton, Calif., 1978; lawyer, private practice; member of the California state senate, 1981-1990; chair, California senate Republican caucus, 1987-1990; elected as a Republican to the One Hundred Second and to the eight succeeding Congresses (January 3, 1991-January 3, 2009); was not a candidate for reelection to the One Hundred Eleventh Congress in 2008.","Time Period | Location
+--- | ---
+1950-1964 | Glendale, Los Angeles County, Calif.
+1964-1968 | Cupertino, Calif.
+1968-1972 | Santa Cruz, Calif.
+1974-1978 | Stockton, Calif.
+1981-1990 | (California state senate)
+1991-2009 | (Congress)","Time Period | Location
+--- | ---
+1950-1964 | Glendale, Los Angeles County, Calif.
+1964-1968 | Cupertino, Calif.
+1968-1972 | Santa Cruz, Calif.
+1974-1978 | Stockton, Calif.
+1981-1990 | (California state senate)
+1991-2009 | (Congress)",0,
+M001207,"a Representative from Florida; born in Guayaquil, Ecuador, January 18, 1971; graduated from Pomona Catholic High School, Pomona, Calif., 1988; B.S., Pitzer College, Claremont, Calif., 1992; M.A., Claremont Graduate University, Claremont, Calif., 1996; consultant; faculty, Florida International University, Miami, Fla., 2003-2011; elected as a Democrat to the One Hundred Sixteenth Congress (January 3, 2019-January 3, 2021); unsuccessful candidate for reelection to the One Hundred Seventeenth Congress in 2020.","Time Period | Location
+--- | ---
+1971-1984 | Guayaquil, Ecuador
+1984-1988 | Pomona, Calif.
+1988-1992 | Claremont, Calif.
+1992-1996 | Claremont, Calif.
+2003-2011 | Miami, Fla.
+2019-2021 | (Congress)","Time Period | Location
+--- | ---
+1971-1984 | Guayaquil, Ecuador
+1984-1988 | Pomona, Calif.
+1988-1992 | Claremont, Calif.
+1992-1996 | Claremont, Calif.
+2003-2011 | Miami, Fla.
+2019-2021 | (Congress)",0,
+K000391,"A Representative from Illinois; born in New Delhi, India, July 19, 1973; graduated from Richwoods High School, Peoria, Ill., 1991; B.A., Princeton University, Princeton, N.J., 1995; J.D., Harvard Law School, Cambridge, Mass., 2000; lawyer, private practice; business executive; clerk, United States District Court for Northern District of Illinois, 2000-2002; campaign staff, Barack Obama, 2004, 2008; staff, Illinois housing development authority, 2005-2007; Illinois special assistant attorney general, 2006-2007; deputy state treasurer of Illinois, 2008-2009; unsuccessful candidate for Illinois state comptroller, 2010; unsuccessful candidate for nomination to the One Hundred Thirteenth Congress in 2012; elected as a Democrat to the One Hundred Fifteenth and to the three succeeding Congresses (January 3, 2017-present).","Time Period | Location
+--- | ---
+1973-1987 | New Delhi, India
+1987-1991 | Peoria, Ill.
+1991-1995 | Princeton, N.J.
+1995-2000 | Cambridge, Mass.
+2000-2002 | (clerk, United States District Court for Northern District of Illinois)
+2002-2004 | (private practice)
+2004-2005 | (campaign staff, Barack Obama)
+2005-2007 | (staff, Illinois housing development authority)
+2006-2007 | (Illinois special assistant attorney general)
+2008-2009 | (deputy state treasurer of Illinois)
+2017-present | (Congress)","Time Period | Location
+--- | ---
+1973-1987 | New Delhi, India
+1987-1991 | Peoria, Ill.
+1991-1995 | Princeton, N.J.
+1995-2000 | Cambridge, Mass.
+2000-2002 | (clerk, United States District Court for Northern District of Illinois)
+2002-2004 | (private practice)
+2004-2005 | (campaign staff, Barack Obama)
+2005-2007 | (staff, Illinois housing development authority)
+2006-2007 | (Illinois special assistant attorney general)
+2008-2009 | (deputy state treasurer of Illinois)
+2017-present | (Congress)",0,
+S000185,"a Representative from Virginia; born in Washington, D.C., April 30, 1947; graduated from Groton School, Groton, Mass., 1965; A.B., Harvard University, Cambridge, Mass., 1969; J.D., Boston College School of Law, Boston, Mass., 1973; lawyer, private practice; United States Army Reserve, 1970-1974; Massachusetts Army National Guard, 1974-1976; member of the Virginia state house of delegates, 1978-1983; member of the Virginia state senate, 1983-1993; unsuccessful candidate for election to the One Hundredth Congress in 1986; elected as a Democrat to the One Hundred Third and to the fifteen succeeding Congresses (January 3, 1993-present); chair, Committee on Education and Labor (One Hundred Sixteenth and One Hundred Seventeenth Congresses).","Time Period | Location
+--- | ---
+1947-1961 | Washington, D.C.
+1961-1965 | Groton, Mass.
+1965-1969 | Cambridge, Mass.
+1969-1973 | Boston, Mass.
+1970-1974 | (United States Army Reserve)
+1974-1976 | (Massachusetts Army National Guard)
+1978-1983 | Virginia
+1983-1993 | Virginia
+1993-present | (Congress)","Time Period | Location
+--- | ---
+1947-1961 | Washington, D.C.
+1961-1965 | Groton, Mass.
+1965-1969 | Cambridge, Mass.
+1969-1973 | Boston, Mass.
+1970-1974 | (United States Army Reserve)
+1974-1976 | (Massachusetts Army National Guard)
+1978-1983 | Virginia
+1983-1993 | Virginia
+1993-present | (Congress)",0,
+R000605,"A Senator from South Dakota; born in Huron, Beadle County, S. Dak., October 24, 1954; B.S., South Dakota State University, 1977; insurance and real estate executive; member of the South Dakota state senate 1991-2000, serving as majority leader 1995-2000; governor of South Dakota 2003-2011; elected as a Republican to the United States Senate in 2014; reelected in 2020 for the term ending January 3, 2027.","Time Period | Location
+--- | ---
+1954-1973 | Huron, Beadle County, S. Dak.
+1973-1977 | South Dakota State University
+1977-1991 | South Dakota (as insurance and real estate executive)
+1991-2000 | South Dakota (as member of the South Dakota state senate)
+2003-2011 | South Dakota (as governor)
+2014-2027 | (United States Senate)","Time Period | Location
+--- | ---
+1954-1973 | Huron, Beadle County, S. Dak.
+1973-1977 | South Dakota State University
+1977-1991 | South Dakota (as insurance and real estate executive)
+1991-2000 | South Dakota (as member of the South Dakota state senate)
+2003-2011 | South Dakota (as governor)
+2014-2027 | (United States Senate)",0,
+P000599,"a Representative from Florida; born in Washington, D.C., December 18, 1947; graduated from Cocoa High School, Cocoa, Fla., 1966; A.A., Eastern Florida State College, Cocoa, Fla., 1969; Realtor; member of the Rockledge, Fla., city council, 1976-1986; member of the Florida state house of representatives, 1992-2000; member of the Florida state senate, 2000-2008; elected as a Republican to the One Hundred Eleventh and to the seven succeeding Congresses (January 3, 2009-present).","Time Period | Location
+--- | ---
+1947-1962 | Washington, D.C.
+1962-1966 | Cocoa, Fla.
+1966-1969 | Cocoa, Fla.
+1976-1986 | Rockledge, Fla.
+1992-2000 | (Florida state house of representatives)
+2000-2008 | (Florida state senate)
+2009-present | (Congress)","Time Period | Location
+--- | ---
+1947-1962 | Washington, D.C.
+1962-1966 | Cocoa, Fla.
+1966-1969 | Cocoa, Fla.
+1976-1986 | Rockledge, Fla.
+1992-2000 | (Florida state house of representatives)
+2000-2008 | (Florida state senate)
+2009-present | (Congress)",0,
+S001181,"A Senator from New Hampshire; born in St. Charles, Mo., January 28, 1947; B.A., Shippensburg State College, Shippensburg, Penn., 1969; M.S.S., University of Mississippi, 1973; New Hampshire State senator, 1990-1996; governor of New Hampshire, 1997-2003; unsuccessful candidate for election to the United States Senate in 2002; elected as a Democrat to the United States Senate in 2008; reelected in 2014, and again in 2020 for the term ending January 3, 2027.","Time Period | Location
+--- | ---
+1947-1965 | St. Charles, Mo.
+1965-1969 | Shippensburg, Penn.
+1969-1973 | Mississippi
+1990-1996 | New Hampshire
+1997-2003 | New Hampshire
+2008-2027 | (United States Senate)","Time Period | Location
+--- | ---
+1947-1965 | St. Charles, Mo.
+1965-1969 | Shippensburg, Penn.
+1969-1973 | University of Mississippi
+1990-1996 | New Hampshire
+1997-2003 | New Hampshire
+2008-2027 | (United States Senate)",2,
+S001174,"A Representative from Ohio; born in Barberton, Summit County, Ohio, July 31, 1963; B.A., Kent State University, Kent, Ohio, 1985; J.D., University of Akron, Akron, Ohio, 1990; lawyer, private practice; Barberton, Ohio, city council, 1991-1992; member, Ohio state house of representatives, 1993-2000; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); unsuccessful candidate for reelection to the One Hundred Thirteenth Congress in 2012; unsuccessful candidate for election as lieutenant governor of Ohio in 2018.","Time Period | Location
+--- | ---
+1963-1981 | Barberton, Summit County, Ohio
+1981-1985 | Kent, Ohio
+1985-1990 | Akron, Ohio
+1991-1992 | Barberton, Ohio
+1993-2000 | (Ohio state house of representatives)
+2007-2013 | (Congress)","Time Period | Location
+--- | ---
+1963-1981 | Barberton, Summit County, Ohio
+1981-1985 | Kent, Ohio
+1985-1990 | Akron, Ohio
+1991-1992 | Barberton, Ohio
+1993-2000 | (Ohio state house of representatives)
+2007-2013 | (Congress)",0,
+Y000067,"a Representative from Indiana; born on February 24, 1984; home schooled; A.S., Indiana University South Bend, South Bend, Ind., 2009; B.S., Indiana University South Bend, South Bend, Ind., 2011; M.B.A., University of Notre Dame, Notre Dame, Ind., 2019; staff, campaign of United States Representative Jackie Walorski of Indiana, 2011-2012; member, Indiana state judicial nominating commission; business executive; elected as a Republican to the One Hundred Seventeenth Congress, by special election, to fill the vacancy caused by the death of United States Representative Jackie Walorski, and reelected to the succeeding Congress (November 8, 2022-present).","Time Period | Location
+--- | ---
+1984-2007 | Indiana
+2007-2009 | South Bend, Ind.
+2009-2011 | South Bend, Ind.
+2011-2019 | Indiana
+2019-2022 | Notre Dame, Ind.
+2022-Present | (Congress)","Time Period | Location
+--- | ---
+1984-2007 | Indiana
+2007-2009 | South Bend, Ind.
+2009-2011 | South Bend, Ind.
+2011-2017 | Indiana
+2017-2019 | Notre Dame, Ind.
+2022-Present | (Congress)",1,
+P000609,"A Representative from Alabama; born in Haleyville, Winston County, Ala., May 14, 1954; graduated from Hackleburg High School, Hackleburg, Ala., 1972; attended Northwest Alabama Junior College, Phil Campbell, Ala., 1972-1974; B.S., University of Alabama, Tuscaloosa, Ala., 1977; cost engineer; president and CEO, public policy research institute; nonprofit executive; elected as a Republican to the One Hundred Fourteenth and to the four succeeding Congresses (January 3, 2015-present).","Time Period | Location
+--- | ---
+1954-1970 | Haleyville, Winston County, Ala.
+1970-1972 | Hackleburg, Ala.
+1972-1974 | Phil Campbell, Ala.
+1974-1977 | Tuscaloosa, Ala.
+1977-2015 | (Various locations, including as a cost engineer, president and CEO of a public policy research institute, and nonprofit executive)
+2015-present | (Congress)","Time Period | Location
+--- | ---
+1954-1970 | Haleyville, Winston County, Ala.
+1970-1972 | Hackleburg, Ala.
+1972-1974 | Phil Campbell, Ala.
+1974-1977 | Tuscaloosa, Ala.
+1977-2015 | (Various locations, including as a cost engineer, president and CEO of a public policy research institute, and nonprofit executive)
+2015-present | (Congress)",0,
+N000182,"A Representative from Texas; born in St. Louis, St. Louis County, Mo., December 24, 1949; graduated from Coronado High School, Lubbock, Tex., 1968; B.B.A., Texas Tech University, Lubbock, Tex., 1972; businessman; member of the Lubbock, Tex., city council, 1992-1998, mayor pro tempore, 1994-1996; elected as a Republican to the One Hundred Eighth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Larry Ed Combest, and reelected to the six succeeding Congresses (June 3, 2003-January 3, 2017); was not a candidate for reelection to the One Hundred Fifteenth Congress in 2016.","Time Period | Location
+--- | ---
+1949-1964 | St. Louis, St. Louis County, Mo.
+1964-1968 | Lubbock, Tex.
+1968-1972 | Lubbock, Tex.
+1972-1992 | Lubbock, Tex. (businessman)
+1992-1998 | Lubbock, Tex. (city council)
+2003-2017 | (Congress)","Time Period | Location
+--- | ---
+1949-1964 | St. Louis, St. Louis County, Mo.
+1964-1968 | Lubbock, Tex.
+1968-1972 | Lubbock, Tex.
+1972-1992 | Lubbock, Tex. (businessman)
+1992-1998 | Lubbock, Tex. (city council)
+2003-2017 | (Congress)",0,
+C001053,"a Representative from Oklahoma; born in Shreveport, Caddo Parish, La., on April 28, 1949; an enrolled member of the Chickasaw Nation; graduated from Moore High School, Moore, Okla., 1967; B.A., Grinnell College, Grinnell, Iowa, 1971; M.A., Yale University, New Haven, Conn., 1974; Ph.D., University of Oklahoma, Norman, Okla., 1984; consultant; graduate assistant, University of Oklahoma, Norman, Okla.; faculty, Oklahoma Baptist University, Shawnee, Okla.; staff, United States Representative Marvin (Mickey) Edwards of Oklahoma, 1982-1984; chairman, Oklahoma Republican Party, 1985-1989; private advocate; member of the Oklahoma state senate, 1988-1991; executive director, National Republican Congressional Committee, 1991-1993; Oklahoma secretary of state, 1995-1999; chief of staff, Republican National Committee, 1999-2001; elected as a Republican to the One Hundred Eighth and to the ten succeeding Congresses (January 3, 2003-present), chair, Committee on Rules (One Hundred Eighteenth Congress).","Time Period | Location
+--- | ---
+1949-1963 | Shreveport, Caddo Parish, La.
+1963-1967 | Moore, Okla.
+1967-1971 | Grinnell, Iowa
+1971-1974 | New Haven, Conn.
+1974-1984 | Norman, Okla.
+1982-1984 | (staff, United States Representative Marvin (Mickey) Edwards of Oklahoma)
+1985-1989 | (chairman, Oklahoma Republican Party)
+1988-1991 | (member of the Oklahoma state senate)
+1991-1993 | (executive director, National Republican Congressional Committee)
+1995-1999 | (Oklahoma secretary of state)
+1999-2001 | (chief of staff, Republican National Committee)
+2003-present | (Congress)","Time Period | Location
+--- | ---
+1949-1963 | Shreveport, Caddo Parish, La.
+1963-1967 | Moore, Okla.
+1967-1971 | Grinnell, Iowa
+1971-1974 | New Haven, Conn.
+1974-1984 | Norman, Okla.
+1982-1984 | (staff, United States Representative Marvin (Mickey) Edwards of Oklahoma)
+1985-1989 | (chairman, Oklahoma Republican Party)
+1988-1991 | (member of the Oklahoma state senate)
+1991-1993 | (executive director, National Republican Congressional Committee)
+1995-1999 | (Oklahoma secretary of state)
+1999-2001 | (chief of staff, Republican National Committee)
+2003-present | (Congress)",0,
+G000561,"A Senator from West Virginia; born on February 27, 1974, in Mt. Alto, West Virginia; B.A., Marietta College, 1996; J.D., Emory University School of Law, 1999; law clerk,   1999-2000; lawyer, private practice; general counsel to West Virginia Governor Joe Manchin, III 2005-2009; resumed private practice of law; appointed as a Democrat to the United States Senate on July 16, 2010, to fill the vacancy caused by the death of Robert C. Byrd; took the oath of office on July 20, 2010; and served from July 16, 2010, to November 15, 2010, a successor having been chosen in a special election; not a candidate for election to the unexpired portion of the term.","Time Period | Location
+--- | ---
+1974-1992 | Mt. Alto, West Virginia
+1992-1996 | Marietta College
+1996-1999 | Emory University School of Law
+1999-2000 | (United States Court of Appeals, Fourth Judicial Circuit)
+2005-2009 | (general counsel to West Virginia Governor Joe Manchin, III)
+2010 | (United States Senate)","Time Period | Location
+--- | ---
+1974-1992 | Mt. Alto, West Virginia
+1992-1996 | Marietta College
+1996-1999 | Emory University School of Law
+1999-2000 | (United States Court of Appeals, Fourth Judicial Circuit)
+2005-2009 | (general counsel to West Virginia Governor Joe Manchin, III)
+2010 | (United States Senate)",0,
+R000487,"A Representative from California; born in Los Angeles, Los Angeles County, Calif., October 12, 1951; B.A., California State University, Fullerton, Calif., 1977; business owner; corporate tax manager; member of the California state senate, 1983-1993; elected as a Republican to the One Hundred Third and to the twelve succeeding Congresses (January 3, 1993-January 3, 2019); chair, Committee on Foreign Affairs (One Hundred Thirteenth through One Hundred Fifteenth Congresses); was not a candidate for reelection to the One Hundred Sixteenth Congress in 2018.","Time Period | Location
+--- | ---
+1951-1969 | Los Angeles, Los Angeles County, Calif.
+1969-1977 | Fullerton, Calif.
+1983-1993 | (California state senate)
+1993-2019 | (Congress)","Time Period | Location
+--- | ---
+1951-1969 | Los Angeles, Los Angeles County, Calif.
+1969-1977 | Fullerton, Calif.
+1983-1993 | (California state senate)
+1993-2019 | (Congress)",0,
+P000618,"a Representative from California; born in Fort Dodge, Webster County, Iowa, January 3, 1974; B.A., Yale University, New Haven, Conn., 1996; J.D., Harvard University, Cambridge, Mass., 2001; law professor; staff, office of the attorney general, Calif. state department of justice, 2012-2014; faculty, University of California, Irvine, Calif., 2011-2018; elected as a Democrat to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present).","Time Period | Location
+--- | ---
+1974-1992 | Fort Dodge, Webster County, Iowa
+1992-1996 | New Haven, Conn.
+1996-2001 | Cambridge, Mass.
+2011-2018 | Irvine, Calif.
+2012-2014 | (office of the attorney general, Calif. state department of justice)
+2019-present | (Congress)","Time Period | Location
+--- | ---
+1974-1992 | Fort Dodge, Webster County, Iowa
+1992-1996 | New Haven, Conn.
+1996-2001 | Cambridge, Mass.
+2011-2018 | Irvine, Calif.
+2012-2014 | (office of the attorney general, Calif. state department of justice)
+2019-present | (Congress)",0,
+L000553,"A Representative from Ohio; born in Cleveland, Cuyahoga County, Ohio, July 22, 1954; graduated from Cleveland Heights High School, Cleveland, Ohio, 1972; B.A., University of Michigan, 1976; J.D., Cleveland State University, Cleveland, Ohio, 1979; lawyer, private practice; public defender, Lake County, Ohio, 1980-1983; prosecuting attorney, Lake County, Ohio, 1989-1995; elected as a Republican to the One Hundred Fourth and to the eight succeeding Congresses (January 3, 1995-January 3, 2013); was not a candidate for reelection to the One Hundred Thirteenth Congress in 2012; died on August 3, 2016, in McLean, Va.","Time Period | Location
+--- | ---
+1954-1970 | Cleveland, Cuyahoga County, Ohio
+1970-1972 | Cleveland, Ohio
+1972-1976 | University of Michigan
+1976-1979 | Cleveland, Ohio
+1980-1983 | Lake County, Ohio
+1989-1995 | Lake County, Ohio
+1995-2013 | (Congress)
+2013-2016 | McLean, Va.","Time Period | Location
+--- | ---
+1954-1968 | Cleveland, Cuyahoga County, Ohio
+1968-1972 | Cleveland, Ohio
+1972-1976 | University of Michigan
+1976-1979 | Cleveland, Ohio
+1980-1983 | Lake County, Ohio
+1989-1995 | Lake County, Ohio
+1995-2013 | (Congress)
+2013-2016 | McLean, Va.",0,correction in years but has no effect on result
+H001089,"A Senator from Missouri; born in Springdale, Ark., December 31, 1979; graduated Rockhurst High School, Kansas City, Mo., 1998; B.A., history, Stanford University, 2002; J.D., Yale Law School, 2006; law clerk to Judge Michael W. McConnell, United States Court of Appeals, Tenth Circuit; law clerk to Chief Justice of the United States John Roberts; lawyer; law professor, University of Missouri Law School; attorney general of Missouri 2017-2018; elected as a Republican to the United States Senate in 2018 for the term ending January 3, 2025.","Time Period | Location
+--- | ---
+1979-1994 | Springdale, Ark.
+1994-1998 | Kansas City, Mo.
+1998-2002 | Stanford, Calif.
+2002-2006 | New Haven, Conn. (Yale Law School)
+2006-2007 | (Law clerk to Judge Michael W. McConnell, United States Court of Appeals, Tenth Circuit)
+2007-2008 | (Law clerk to Chief Justice of the United States John Roberts)
+2008-2017 | (Lawyer; law professor, University of Missouri Law School)
+2017-2018 | Missouri (Attorney general of Missouri)
+2018-2025 | (United States Senate)","Time Period | Location
+--- | ---
+1979-1994 | Springdale, Ark.
+1994-1998 | Kansas City, Mo.
+1998-2002 | Stanford, Calif.
+2002-2006 | New Haven, Conn. (Yale Law School)
+2006-2007 | (Law clerk to Judge Michael W. McConnell, United States Court of Appeals, Tenth Circuit)
+2007-2008 | (Law clerk to Chief Justice of the United States John Roberts)
+2008-2017 | (Lawyer; law professor, University of Missouri Law School)
+2017-2018 | Missouri (Attorney general of Missouri)
+2018-2025 | (United States Senate)",0,
+B000410,"A Representative from California; born in Los Angeles, Los Angeles County, Calif., April 15, 1941; graduated from Hamilton High School, Los Angeles, Calif., 1959; B.A., University of California, Los Angeles, Calif., 1962; LL.B., University of California School of Law, Los Angeles, Calif., 1965; lawyer, private practice; VISTA volunteer, 1966-1967; member of the California state assembly, 1973-1982; delegate, Democratic National Convention, 1968, 1976, and 1984; elected as a Democrat to the Ninety-eighth and to the fourteen succeeding Congresses (January 3, 1983-January 3, 2013); chair, Committee on Foreign Affairs (One Hundred Tenth and One Hundred Eleventh Congresses); unsuccessful candidate for reelection to the One Hundred Thirteenth Congress in 2012.","Time Period | Location
+--- | ---
+1941-1955 | Los Angeles, Los Angeles County, Calif.
+1955-1959 | Los Angeles, Calif.
+1959-1962 | Los Angeles, Calif.
+1962-1965 | Los Angeles, Calif.
+1966-1967 | (VISTA volunteer)
+1973-1982 | (member of the California state assembly)
+1983-2013 | (Congress)","Time Period | Location
+--- | ---
+1941-1955 | Los Angeles, Los Angeles County, Calif.
+1955-1959 | Los Angeles, Calif.
+1959-1962 | Los Angeles, Calif.
+1962-1965 | Los Angeles, Calif.
+1966-1967 | (VISTA volunteer)
+1973-1982 | (member of the California state assembly)
+1983-2013 | (Congress)",0,
+B001251,"a Representative from North Carolina; born in Wilson, Wilson County, N.C., April 27, 1947; graduated from Charles H. Darden High School, Wilson, N.C., 1965; B.A., North Carolina Central University, Durham, N.C., 1971; J.D., North Carolina Central University School of Law, 1974; United States Army, 1968-1970; lawyer, private practice; North Carolina resident superior court judge, 1989-2001; North Carolina special superior court judge, 2002-2004; justice of the North Carolina state supreme court, 2001-2002; elected as a Democrat to the One Hundred Eighth Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Frank Ballance, and reelected to the nine succeeding Congresses until his resignation on December 30, 2022 (July 20, 2004-December 30, 2022); was not a candidate for reelection to the One Hundred Eighteenth Congress in 2022.","Time Period | Location
+--- | ---
+1947-1961 | Wilson, Wilson County, N.C.
+1961-1965 | Wilson, N.C.
+1965-1971 | Durham, N.C.
+1971-1974 | Durham, N.C.
+1968-1970 | (United States Army)
+1989-2001 | (North Carolina resident superior court judge)
+2001-2002 | (justice of the North Carolina state supreme court)
+2002-2004 | (North Carolina special superior court judge)
+2004-2022 | (Congress)","Time Period | Location
+--- | ---
+1947-1961 | Wilson, Wilson County, N.C.
+1961-1965 | Wilson, N.C.
+1965-1971 | Durham, N.C.
+1971-1974 | Durham, N.C.
+1968-1970 | (United States Army)
+1989-2001 | (North Carolina resident superior court judge)
+2001-2002 | (justice of the North Carolina state supreme court)
+2002-2004 | (North Carolina special superior court judge)
+2004-2022 | (Congress)",0,
+C001117,"A Representative from Illinois; born in Dublin, Ireland, November 23, 1971; graduated from Woodlands High School, Hartsdale, NY, 1989; B.A., Middlebury College, Middlebury, Vt., 1993; M.S., Dartmouth College, Hanover, N.H., 1998; M.E.M., Dartmouth College, Hanover, N.H., 1998; businessman; scientist; consultant; elected as a Democrat to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present).","Time Period | Location
+--- | ---
+1971-1985 | Dublin, Ireland
+1985-1989 | Hartsdale, NY
+1989-1993 | Middlebury, Vt.
+1993-1998 | Hanover, N.H.
+1998-2019 | (businessman; scientist; consultant)
+2019-present | (Congress)","Time Period | Location
+--- | ---
+1971-1985 | Dublin, Ireland
+1985-1989 | Hartsdale, NY
+1989-1993 | Middlebury, Vt.
+1993-1998 | Hanover, N.H.
+1998-2019 | (businessman; scientist; consultant)
+2019-present | (Congress)",0,
+B001302,"a Representative from Arizona; born in Tucson, Pima County, Ariz., November 7, 1958; B.A., Brigham Young University, Provo, Utah, 1982; J.D., University of Arizona, Tucson, Ariz., 1984; M.A., Arizona State University, Tempe, Ariz, 1999; lawyer, private practice; member of the Arizona state house of representatives, 2003-2011; member of the Arizona state senate, 2011-2016, majority leader, 2011-2012, president, 2013-2016; elected as a Republican to the One Hundred Fifteenth and to the three succeeding Congresses (January 3, 2017-present).","Time Period | Location
+--- | ---
+1958-1976 | Tucson, Pima County, Ariz.
+1976-1982 | Provo, Utah
+1982-1984 | Tucson, Ariz.
+1984-1999 | (private practice)
+1999-2003 | Tempe, Ariz.
+2003-2011 | (Arizona state house of representatives)
+2011-2016 | (Arizona state senate)
+2017-present | (Congress)","Time Period | Location
+--- | ---
+1958-1976 | Tucson, Pima County, Ariz.
+1976-1982 | Provo, Utah
+1982-1984 | Tucson, Ariz.
+1997-1999 | Tempe, Ariz.
+2003-2011 | (Arizona state house of representatives)
+2011-2016 | (Arizona state senate)
+2017-present | (Congress)",1,
+N000193,"a Representative from Iowa, born in Story City, Story County, Iowa, May 4, 1979; graduated from Southeast Polk High School, Pleasant Hill, Iowa, 1998; B.A., Drake University, Des Moines, Iowa, 2002; M.S., Air Command and Staff College, Montgomery, Alabama; M. St., Cambridge University, Cambridge, England, 2007; United States Air Force; Iowa Air National Guard; staff, United States Senator Charles Ernest Grassley of Iowa, 2003; staff, National Security Council; staff, Office of the Director of National Intelligence; cybersecurity consultant; adjunct professor, Drake University; member of the Iowa state house of representatives, 2015-2019; member of the Iowa state senate, 2019-2023; elected as a Republican to the One Hundred Eighteenth Congress (January 2023-present).","Time Period | Location
+--- | ---
+1979-1994 | Story City, Story County, Iowa
+1994-1998 | Pleasant Hill, Iowa
+1998-2002 | Des Moines, Iowa
+2002-2003 | Montgomery, Alabama
+2003-2007 | (staff, United States Senator Charles Ernest Grassley of Iowa)
+2007-2015 | Cambridge, England
+2015-2019 | (Iowa state house of representatives)
+2019-2023 | (Iowa state senate)
+2023-present | (Congress)","Time Period | Location
+--- | ---
+1979-1994 | Story City, Story County, Iowa
+1994-1998 | Pleasant Hill, Iowa
+1998-2002 | Des Moines, Iowa
+2002-2003 | Montgomery, Alabama
+2005-2007 | Cambridge, England
+2007-2015 | Des Moines, Iowa
+2015-2019 | (Iowa state house of representatives)
+2019-2023 | (Iowa state senate)
+2023-present | (Congress)",3,
+C001042,"A Senator from New Jersey; born January 1, 1947, in Taylorville, Christian County, Illinois; graduated University of Illinois, BA 1969; University of Chicago Business School, MBA 1973; served in U.S. marine corps reserve 1969-1975; businessman; co-chair and co-CEO, Goldman, Sachs &amp; Co.; elected to the United States Senate for term ending January 3, 2007, and served from January 3, 2001, to January 17, 2006, when he resigned to become governor of New Jersey; chair, Democratic Senatorial Campaign Committee (One Hundred Eighth Congress); governor of New Jersey (2006-2010).","Time Period | Location
+--- | ---
+1947-1965 | Taylorville, Christian County, Illinois
+1965-1969 | University of Illinois
+1969-1973 | University of Chicago Business School
+1969-1975 | (U.S. marine corps reserve)
+1973-2001 | (Goldman, Sachs & Co.)
+2001-2006 | (United States Senate)
+2006-2010 | New Jersey (Governor)","Time Period | Location
+--- | ---
+1947-1965 | Taylorville, Christian County, Illinois
+1965-1969 | University of Illinois
+1969-1973 | University of Chicago Business School
+1969-1975 | (U.S. marine corps reserve)
+1973-2001 | (Goldman, Sachs & Co.)
+2001-2006 | (United States Senate)
+2006-2010 | New Jersey (Governor)",0,
+D000602,"A Representative from Alabama; born in Montgomery, Montgomery County, Ala., on October 9, 1967; graduated from Jefferson Davis High School, Montgomery, Ala.; B.A., Harvard University, Cambridge, Mass., 1990; J.D., Harvard University, Cambridge, Mass., 1993; lawyer, private practice; clerk, Judge Myron Thompson, Middle District of Alabama, 1993-1994; Assistant United States Attorney, Middle District of Alabama, 1994-1998; unsuccessful candidate for nomination to the One Hundred Seventh Congress in 2000; elected as a Democrat to the One Hundred Eighth and to the three succeeding Congresses (January 3, 2003-January 3, 2011); not a candidate for reelection to the One Hundred Twelfth Congress in 2010; unsuccessful candidate for Governor of Alabama in 2010.","Time Period | Location
+--- | ---
+1967-1985 | Montgomery, Montgomery County, Ala.
+1985-1990 | Cambridge, Mass.
+1990-1993 | Cambridge, Mass.
+1993-1994 | (clerk, Judge Myron Thompson, Middle District of Alabama)
+1994-1998 | (Assistant United States Attorney, Middle District of Alabama)
+2003-2011 | (Congress)","Time Period | Location
+--- | ---
+1967-1985 | Montgomery, Montgomery County, Ala.
+1985-1990 | Cambridge, Mass.
+1990-1993 | Cambridge, Mass.
+1993-1994 | (clerk, Judge Myron Thompson, Middle District of Alabama)
+1994-1998 | (Assistant United States Attorney, Middle District of Alabama)
+2003-2011 | (Congress)",0,
+B001258,"A Representative from Kansas; born in St. Louis, St. Louis County, Mo., August 2, 1955; B.S., William Jewell College, Liberty, Mo., 1977; chemist; teacher; unsuccessful candidate for election to One Hundred and Ninth Congress in 2004; elected as a Democrat to the One Hundred Tenth Congress (January 3, 2007-January 3, 2009); unsuccessful candidate for reelection to the One Hundred Eleventh Congress in 2008.","Time Period | Location
+--- | ---
+1955-1973 | St. Louis, St. Louis County, Mo.
+1973-1977 | Liberty, Mo.
+2007-2009 | (Congress)","Time Period | Location
+--- | ---
+1955-1973 | St. Louis, St. Louis County, Mo.
+1973-1977 | Liberty, Mo.
+2007-2009 | (Congress)",0,
+K000364,"A Representative from New York; born in Bath, Steuben County, N.Y., April 19, 1943; B.S., Union College, Schenectady, N.Y., 1966; J.D., Syracuse University, Syracuse, N.Y., 1969; lawyer, private practice; member of the New York state assembly, 1981-1986; member of the New York state senate, 1987-2004; elected as a Republican to the One Hundred Ninth and to the succeeding Congress (January 3, 2005-January 3, 2009); unsuccessful candidate for reelection to the One Hundred Eleventh Congress in 2008.","Time Period | Location
+--- | ---
+1943-1961 | Bath, Steuben County, N.Y.
+1961-1966 | Schenectady, N.Y.
+1966-1969 | Syracuse, N.Y.
+1981-1986 | (New York state assembly)
+1987-2004 | (New York state senate)
+2005-2009 | (Congress)","Time Period | Location
+--- | ---
+1943-1961 | Bath, Steuben County, N.Y.
+1961-1966 | Schenectady, N.Y.
+1966-1969 | Syracuse, N.Y.
+1981-1986 | (New York state assembly)
+1987-2004 | (New York state senate)
+2005-2009 | (Congress)",0,
+S001171,"A Representative from North Carolina; born in Swain County, N.C., December 31, 1971; graduated from Swain County High School, Bryson City, N.C., 1991; B.A., University of Tennessee, Knoxville, Tenn., 2001; professional athlete; business owner; elected as a Democrat to the One Hundred Tenth and to the two succeeding Congresses (January 3, 2007-January 3, 2013); was not a candidate for reelection to the One Hundred Thirteenth Congress in 2012.","Time Period | Location
+--- | ---
+1971-1987 | Swain County, N.C.
+1987-1991 | Bryson City, N.C.
+1991-2001 | Knoxville, Tenn.
+2007-2013 | (Congress)","Time Period | Location
+--- | ---
+1971-1987 | Swain County, N.C.
+1987-1991 | Bryson City, N.C.
+1991-2001 | Knoxville, Tenn.
+2007-2013 | (Congress)",0,
+C001038,"A Representative from New York; born in New York, New York County, N.Y., March 16, 1962; graduated from Power Memorial High School, New York, N.Y., 1981; B.A., Queens College, City University of New York, Flushing, N.Y., 1985; member of the New York state assembly, 1986-1998; elected as a Democrat to the One Hundred Sixth and to the nine succeeding Congresses (January 3, 1999-January 3, 2019); chair, House Democratic Caucus (One Hundred Fifteenth Congress); unsuccessful candidate for nomination to the One Hundred Sixteenth Congress in 2018.","Time Period | Location
+--- | ---
+1962-1977 | New York, New York County, N.Y.
+1977-1981 | New York, N.Y.
+1981-1985 | Flushing, N.Y.
+1986-1998 | (New York state assembly)
+1999-2019 | (Congress)","Time Period | Location
+--- | ---
+1962-1977 | New York, New York County, N.Y.
+1977-1981 | New York, N.Y.
+1981-1985 | Flushing, N.Y.
+1986-1998 | (New York state assembly)
+1999-2019 | (Congress)",0,
+G000583,"A Representative from New Jersey; born in North Caldwell, Essex County, N.J., March 8, 1975; graduated from West Essex Senior High School, North Caldwell, N.J., 1993; B.A., University of Pennsylvania, Philadelphia, Pa., 1997; J.D., Harvard Law School, Cambridge, Mass., 2004; special assistant and speechwriter for President William J. Clinton, 1998-2001; staff, Wesley Clark presidential campaign, 2004; staff, John Kerry presidential campaign, 2004; business executive; senior counselor to the chairman of the Federal Communications Commission, 2010-2012; elected as a Democrat to the One Hundred Fifteenth and to the three succeeding Congresses (January 3, 2017-present).","Time Period | Location
+--- | ---
+1975-1989 | North Caldwell, Essex County, N.J.
+1989-1993 | North Caldwell, N.J.
+1993-1997 | Philadelphia, Pa.
+1997-2004 | Cambridge, Mass.
+1998-2001 | (special assistant and speechwriter for President William J. Clinton)
+2004 | (staff, Wesley Clark presidential campaign)
+2004 | (staff, John Kerry presidential campaign)
+2010-2012 | (senior counselor to the chairman of the Federal Communications Commission)
+2017-present | (Congress)","Time Period | Location
+--- | ---
+1975-1989 | North Caldwell, Essex County, N.J.
+1989-1993 | North Caldwell, N.J.
+1993-1997 | Philadelphia, Pa.
+2001-2004 | Cambridge, Mass.
+1998-2001 | (special assistant and speechwriter for President William J. Clinton)
+2004 | (staff, Wesley Clark presidential campaign)
+2004 | (staff, John Kerry presidential campaign)
+2010-2012 | (senior counselor to the chairman of the Federal Communications Commission)
+2017-present | (Congress)",1,
+J000301,"a Representative from South Dakota; born in Pierre, Hughes County, S.Dak., September 30, 1976; graduated from T.F. Riggs High School, Pierre, S.Dak., 1995; B.A., University of South Dakota, Vermillion, S.Dak., 1999; M.P.A., University of Kansas, Lawrence, Kans., 2002; staff, Governor Mike Rounds of South Dakota, 2003-2005; member of the South Dakota public utilities commission, 2004-2011; staff, Governor Dennis Daugaard of South Dakota, 2011-2014; business executive and co-owner of telecommunications engineering firm; elected as a Republican to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present).","Time Period | Location
+--- | ---
+1976-1991 | Pierre, Hughes County, S.Dak.
+1991-1995 | Pierre, S.Dak.
+1995-1999 | Vermillion, S.Dak.
+1999-2002 | Lawrence, Kans.
+2003-2005 | (staff, Governor Mike Rounds of South Dakota)
+2004-2011 | (member of the South Dakota public utilities commission)
+2011-2014 | (staff, Governor Dennis Daugaard of South Dakota)
+2019-present | (Congress)","Time Period | Location
+--- | ---
+1976-1991 | Pierre, Hughes County, S.Dak.
+1991-1995 | Pierre, S.Dak.
+1995-1999 | Vermillion, S.Dak.
+1999-2002 | Lawrence, Kans.
+2003-2005 | (staff, Governor Mike Rounds of South Dakota)
+2004-2011 | (member of the South Dakota public utilities commission)
+2011-2014 | (staff, Governor Dennis Daugaard of South Dakota)
+2019-present | (Congress)",0,
+M001193,"A Representative from New Jersey; born in Milford, New Haven County, Conn., October 16, 1960; graduated from RHAM High School, Hebron, Conn., 1978; B.A., Hofstra University, Hempstead, N.Y., 1982; insurance executive and CEO; member of the Randolph, N.J., city council, deputy mayor, mayor, 2011-2014; elected as a Republican to the One Hundred Fourteenth and to the succeeding Congress (January 3, 2015-January 3, 2019); unsuccessful candidate for reelection to the One Hundred Sixteenth Congress in 2018.","Time Period | Location
+--- | ---
+1960-1974 | Milford, New Haven County, Conn.
+1974-1978 | Hebron, Conn.
+1978-1982 | Hempstead, N.Y.
+1982-2011 | Randolph, N.J.
+2011-2014 | Randolph, N.J. (city council, deputy mayor, mayor)
+2015-2019 | (Congress)","Time Period | Location
+--- | ---
+1960-1974 | Milford, New Haven County, Conn.
+1974-1978 | Hebron, Conn.
+1978-1982 | Hempstead, N.Y.
+1982-2011 | Randolph, N.J.
+2011-2014 | Randolph, N.J. (city council, deputy mayor, mayor)
+2015-2019 | (Congress)",0,
+B001305,"a Representative from North Carolina; born in Davie County, N.C., October 21, 1971; graduated from Davie County High School, Mocksville, N.C., 1990; B.S., Appalachian State University, Boone, N.C., 1994; M.A., Dallas Theological Seminary, Dallas, Tex., 1998; M.B.A., Wake Forest University, Winston-Salem, N.C., 2007; business owner; elected as a Republican to the One Hundred Fifteenth and to the two succeeding Congresses (January 3, 2017-January 3, 2023); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2022 for the term ending January 3, 2029.","Time Period | Location
+--- | ---
+1971-1986 | Davie County, N.C.
+1986-1990 | Mocksville, N.C.
+1990-1994 | Boone, N.C.
+1994-1998 | Dallas, Tex.
+1998-2007 | Winston-Salem, N.C.
+2017-2023 | (Congress)
+2023-2029 | (United States Senate)","Time Period | Location
+--- | ---
+1971-1986 | Davie County, N.C.
+1986-1990 | Mocksville, N.C.
+1990-1994 | Boone, N.C.
+1994-1998 | Dallas, Tex.
+1998-2007 | Winston-Salem, N.C.
+2017-2023 | (Congress)
+2023-2029 | (United States Senate)",0,
+B001267,"A Senator from Colorado; born in New Delhi, India, November 28, 1964; B.A., Wesleyan University, Middletown, Conn., 1987; J.D., Yale Law School, 1993, editor-in-chief of the Yale Law Journal; counsel to U.S. deputy attorney general 1995-1997; special assistant U.S. attorney, Conn., 1997; managing director, Anschutz Investment Co. 1997-2003; chief of staff to mayor of Denver, Colo., 2003-2005; superintendent, Denver Public Schools 2005-2009; appointed January 21, 2009, to the United States Senate for the term ending January 3, 2011, to fill the vacancy caused by the resignation of Kenneth L. Salazar; took the oath of office on January 22, 2009; elected as a Democrat to the U.S. Senate in 2010; reelected in 2016, and again in 2022 for the term ending January 3, 2029; chair, Democratic Senatorial Campaign Committee (2013-2014); was an unsuccessful candidate for the Democratic presidential nomination in 2020.","Time Period | Location
+--- | ---
+1964-1983 | New Delhi, India
+1983-1987 | Middletown, Conn.
+1987-1993 | Yale Law School
+1995-1997 | (counsel to U.S. deputy attorney general)
+1997 | Conn.
+1997-2003 | (Anschutz Investment Co.)
+2003-2005 | Denver, Colo.
+2005-2009 | Denver, Colo.
+2009-2029 | (U.S. Senate)","Time Period | Location
+--- | ---
+1964-1983 | New Delhi, India
+1983-1987 | Middletown, Conn.
+1987-1993 | Yale Law School
+1995-1997 | (counsel to U.S. deputy attorney general)
+1997 | Conn.
+1997-2003 | (Anschutz Investment Co.)
+2003-2005 | Denver, Colo.
+2005-2009 | Denver, Colo.
+2009-2029 | (U.S. Senate)",0,
+D000432,"A Representative and a Senator from North Dakota; born in Dickinson, Stark County, N. Dak., May 14, 1942; attended the public schools; B.S., University of North Dakota, Grand Forks 1964; M.B.A., University of Denver 1966; tax commissioner, State of North Dakota 1969-1980; delegate, North Dakota State Democratic conventions 1969-1981; elected as a Democrat to the Ninety-seventh Congress in 1980 and to the five succeeding congresses; elected as a Democrat to the United States Senate in 1992 to the term beginning January 1993; appointed by the Governor to begin serving on December 14, 1992, to fill the vacancy left by Senator Kent Conrad, who assumed the seat left vacant by the death of Quentin Northrop Burdick, and took the oath of office on December 15, 1992; reelected in 1998 and again in 2004, and served from December 14, 1992, to January 3, 2011; chair, Democratic Policy Committee (One Hundred Sixth through One Hundred Eleventh Congresses), Committee on Indian Affairs (One Hundred Tenth and One Hundred Eleventh Congresses); was not a candidate for reelection to the Senate in 2010.","Time Period | Location
+--- | ---
+1942-1960 | Dickinson, Stark County, N. Dak.
+1960-1964 | Grand Forks, N. Dak.
+1964-1966 | Denver, Colo.
+1969-1980 | (tax commissioner, State of North Dakota)
+1980-1992 | (Congress)
+1992-2011 | (Senate)","Time Period | Location
+--- | ---
+1942-1960 | Dickinson, Stark County, N. Dak.
+1960-1964 | Grand Forks, N. Dak.
+1964-1966 | Denver, Colo.
+1969-1980 | (tax commissioner, State of North Dakota)
+1980-1992 | (Congress)
+1992-2011 | (Senate)",0,
+T000193,"A Representative from Mississippi; born in Bolton, Hinds County, Miss., January 28, 1948; B.A., Tougaloo College, Tougaloo, Miss., 1968; M.S., Jackson State University, Jackson, Miss., 1972; teacher; member of the Bolton, Miss., board of aldermen, 1969-1973; Mayor of Bolton, Miss., 1973-1979; member of the Hinds County, Miss., board of supervisors, 1980-1993; elected as a Democrat to the One Hundred Third Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Alphonso Michael (Mike) Espy, and reelected to the fifteen succeeding Congresses (April 13, 1993-present); chair, Committee on Homeland Security (One Hundred Tenth, One Hundred Eleventh, One Hundred Sixteenth, and One Hundred Seventeenth Congresses); chair, Select Committee to Investigate the January 6th Attack on the United States Capitol (One Hundred Seventeenth Congress).","Time Period | Location
+--- | ---
+1948-1964 | Bolton, Hinds County, Miss.
+1964-1968 | Tougaloo, Miss.
+1968-1972 | Jackson, Miss.
+1969-1973 | Bolton, Miss.
+1973-1979 | Bolton, Miss.
+1980-1993 | Hinds County, Miss.
+1993-present | (Congress)","Time Period | Location
+--- | ---
+1948-1964 | Bolton, Hinds County, Miss.
+1964-1968 | Tougaloo, Miss.
+1968-1972 | Jackson, Miss.
+1969-1973 | Bolton, Miss.
+1973-1979 | Bolton, Miss.
+1980-1993 | Hinds County, Miss.
+1993-present | (Congress)",0,
+C001041,"(Wife of President William Jefferson Clinton), a Senator from New York; born on October 26, 1947, in Chicago, Illinois; attended public school in Park Ridge, Illinois; graduated Wellesley College, BA 1969; graduated Yale Law School, JD 1973; attorney; counsel, impeachment inquiry staff, House Judiciary Committee 1974; First Lady of Arkansas 1979-1981, 1983-1993; First Lady of the United States 1993-2001; elected as a Democrat to the United States Senate in 2000; reelected in 2006, and served from January 3, 2001, until her resignation on January 21, 2009, to accept a Cabinet position; an unsuccessful candidate for Democratic nomination for president in 2008; Secretary of State in the Cabinet of President Barack Obama, 2009-2013; was an unsuccessful Democratic nominee for President of the United States in 2016.","Time Period | Location
+--- | ---
+1947-1965 | Park Ridge, Illinois
+1965-1969 | Wellesley, Massachusetts
+1969-1973 | New Haven, Connecticut
+1973-1974 | Washington, D.C.
+1979-1993 | Arkansas
+1993-2001 | Washington, D.C.
+2001-2009 | New York
+2009-2013 | Washington, D.C.
+2016 | (Presidential Campaign)","Time Period | Location
+--- | ---
+1947-1965 | Park Ridge, Illinois
+1965-1969 | Wellesley, Massachusetts
+1969-1973 | New Haven, Connecticut
+1973-1974 | Washington, D.C.
+1979-1993 | Arkansas
+1993-2001 | Washington, D.C.
+2001-2009 | New York
+2009-2013 | Washington, D.C.
+2016 | (Presidential Campaign)",0,
+P000258,"A Representative from Minnesota; born in Fargo, Cass County, N.D., June 29, 1944; B.A., Moorhead State University, Moorhead, Minn., 1966; United States Army National Guard, 1963-1969; certified public accountant; member of the Minnesota state senate, 1977-1986; unsuccessful candidate for election to the Ninety-ninth Congress in 1984 and to the One Hundredth Congress in 1986; unsuccessful candidate for nomination to the One Hundred First Congress in 1988; elected as a Democrat to the One Hundred Second and to the fourteen succeeding Congresses (January 3, 1991-January 3, 2021); unsuccessful candidate for reelection to the One Hundred Seventeenth Congress in 2020; chair, Committee on Agriculture (One Hundred Tenth, One Hundred Eleventh, and One Hundred Sixteenth Congresses).","Time Period | Location
+--- | ---
+1944-1962 | Fargo, Cass County, N.D.
+1962-1966 | Moorhead, Minn.
+1963-1969 | (United States Army National Guard)
+1977-1986 | (Minnesota state senate)
+1991-2021 | (Congress)","Time Period | Location
+--- | ---
+1944-1962 | Fargo, Cass County, N.D.
+1962-1966 | Moorhead, Minn.
+1963-1969 | (United States Army National Guard)
+1977-1986 | (Minnesota state senate)
+1991-2021 | (Congress)",0,
+F000246,"a Representative from Texas; born in Pittsfield, Berkshire County, Mass., December 19, 1967; graduated from Pittsfield High School, Pittsfield, Mass., 1986; attended the University of Massachusetts, Amherst, Mass.; B.A., University of Notre Dame, Notre Dame, Ind., 1990; United States Air Force, 1990-1994; entrepreneur; business executive; member of the Frisco, Tex., city council, 2009-2012, mayor pro tem, 2011-2012; Member of the Texas state house of representatives, 2013-2019; member of the Texas state senate, 2019-2021; Delegate, Republican National Convention, 2016; elected as a Republican to the One Hundred Seventeenth and to the succeeding Congress (January 3, 2021-present).","Time Period | Location
+--- | ---
+1967-1982 | Pittsfield, Berkshire County, Mass.
+1982-1986 | Pittsfield, Mass.
+1986-1990 | Notre Dame, Ind.
+1990-1994 | (United States Air Force)
+1994-2009 | Frisco, Tex.
+2009-2012 | Frisco, Tex. (city council, mayor pro tem)
+2013-2019 | (Texas state house of representatives)
+2019-2021 | (Texas state senate)
+2021-present | (Congress)","Time Period | Location
+--- | ---
+1967-1982 | Pittsfield, Berkshire County, Mass.
+1982-1986 | Pittsfield, Mass.
+1986-1987 | Amherst, Mass.
+1987-1990 | Notre Dame, Ind.
+1990-1994 | (United States Air Force)
+1994-2009 | Frisco, Tex.
+2009-2012 | Frisco, Tex. (city council, mayor pro tem)
+2013-2019 | (Texas state house of representatives)
+2019-2021 | (Texas state senate)
+2021-present | (Congress)",2,
+M001200,"A Representative from Virginia; born in Nuremberg, Germany, October 10, 1961; graduated from St. Christopher's School, Richmond, Va., 1979; B.S., American University, Washington, D.C., 1982, J.D., University of Virginia, Charlottesville, Va., 1986; M.Div., Samuel DeWitt Proctor School of Theology at Virginia Union University, Richmond, Va., 2008; lawyer, private practice; member of the Virginia state house of delegates, 1996-2002 and 2006-2008; member of the Virginia state senate, 2008-2016; elected as a Democrat to the One Hundred Fifteenth and to the two succeeding Congresses; served until his death on November 28, 2022 (January 3, 2017-November 28, 2022), died on November 28, 2022.","Time Period | Location
+--- | ---
+1961-1975 | Nuremberg, Germany
+1975-1979 | Richmond, Va.
+1979-1982 | Washington, D.C.
+1982-1986 | Charlottesville, Va.
+1986-1996 | (lawyer, private practice)
+1996-2002 | (member of the Virginia state house of delegates)
+2006-2008 | (member of the Virginia state house of delegates)
+2008-2016 | (member of the Virginia state senate)
+2017-2022 | (Congress)","Time Period | Location
+--- | ---
+1961-1975 | Nuremberg, Germany
+1975-1979 | Richmond, Va.
+1979-1982 | Washington, D.C.
+1982-1986 | Charlottesville, Va.
+1986-1996 | (lawyer, private practice)
+1996-2002 | (member of the Virginia state house of delegates)
+2006-2008 | (member of the Virginia state house of delegates)
+2008-2016 | (member of the Virginia state senate)
+2017-2022 | (Congress)",0,
+L000597,"a Representative from Florida; born in 1974; B.A., University of Florida, Gainesville, Fla.; J.D., University of Florida, Gainesville, Fla., 1999; law clerk, United States District Court Judge James S. Moody Jr.; lawyer, private practice; assistant federal prosecutor, United States District Court for the Middle District of Florida; Hillsborough County, Fla., circuit court judge, 2013-2019; Florida secretary of state, 2019-2022; elected as a Republican to the One Hundred Eighteenth Congress (January 3, 2023-present).","Time Period | Location
+--- | ---
+1974-1992 | Florida
+1992-1999 | Gainesville, Fla.
+1999-2013 | (law clerk, United States District Court Judge James S. Moody Jr.; lawyer, private practice; assistant federal prosecutor, United States District Court for the Middle District of Florida)
+2013-2019 | Hillsborough County, Fla.
+2019-2022 | (Florida secretary of state)
+2023-present | (Congress)","Time Period | Location
+--- | ---
+1974-1992 | Florida
+1992-1999 | Gainesville, Fla.
+1999-2013 | (law clerk, United States District Court Judge James S. Moody Jr.; lawyer, private practice; assistant federal prosecutor, United States District Court for the Middle District of Florida)
+2013-2019 | Hillsborough County, Fla.
+2019-2022 | (Florida secretary of state)
+2023-present | (Congress)",0,
+S001155,"A Representative from Oklahoma; born in Tulsa, Tulsa County, Okla., January 1, 1965; graduated from Bishop Kelley High School, Tulsa, Okla.; B.B.A., Northeastern State University, Tahlequah, Okla., 1992; real estate broker; member of the Oklahoma state house of representatives, 1995-2002; elected as a Republican to the One Hundred Seventh Congress, by special election (January 8, 2002) in anticipation of the vacancy caused by the resignation of United States Representative Steve Largent, and reelected to the five succeeding Congresses (February 15, 2002-January 3, 2013); unsuccessful candidate for nomination to the One Hundred Thirteenth Congress in 2012.","Time Period | Location
+--- | ---
+1965-1983 | Tulsa, Tulsa County, Okla.
+1983-1992 | Tahlequah, Okla.
+1995-2002 | (Oklahoma state house of representatives)
+2002-2013 | (Congress)","Time Period | Location
+--- | ---
+1965-1983 | Tulsa, Tulsa County, Okla.
+1984-1988 | Tulsa, Okla.
+1988-1992 | Tahlequah, Okla.
+1995-2002 | (Oklahoma state house of representatives)
+2002-2013 | (Congress)",2,
+S001210,"A Representative from Florida; born in Tampa, Hillsborough County, Fla., July 16, 1966; graduated from Brandon High School, Brandon, Fla., 1984; B.A., University of South Florida, Tampa, Fla., 1994; J.D., Florida State University, Tallahassee, Fla., 1998; lawyer, private practice; member of the Florida state house of representatives, 2012-2018; elected as a Republican to the One Hundred Sixteenth Congress (January 3, 2019-January 3, 2021); unsuccessful candidate for renomination to the One Hundred Seventeenth Congress in 2020.","Time Period | Location
+--- | ---
+1966-1980 | Tampa, Hillsborough County, Fla.
+1980-1984 | Brandon, Fla.
+1984-1994 | Tampa, Fla.
+1994-1998 | Tallahassee, Fla.
+2012-2018 | (Florida state house of representatives)
+2019-2021 | (Congress)","Time Period | Location
+--- | ---
+1966-1980 | Tampa, Hillsborough County, Fla.
+1980-1984 | Brandon, Fla.
+1984-1994 | Tampa, Fla.
+1994-1998 | Tallahassee, Fla.
+2012-2018 | (Florida state house of representatives)
+2019-2021 | (Congress)",0,
+D000399,"A Representative from Texas; born in Austin, Travis County, Tex., October 6, 1946; graduated from Austin High School, Austin, Tex., 1964; B.A., University of Texas, Austin, Tex., 1967; J.D., University of Texas School of Law, Austin, Tex., 1970; member of the Texas state senate, 1973-1985; justice of the Texas state supreme court, 1989-1994; adjunct professor, University of Texas School of Law, Austin, Tex., 1989-1994; unsuccessful candidate for election to the United States Senate in 1984; elected as a Democrat to the One Hundred Fourth and to the fourteen succeeding Congresses (January 3, 1995-present).","Time Period | Location
+--- | ---
+1946-1960 | Austin, Travis County, Tex.
+1960-1964 | Austin, Tex.
+1964-1967 | Austin, Tex.
+1967-1970 | Austin, Tex.
+1973-1985 | (Texas state senate)
+1989-1994 | (Texas state supreme court)
+1989-1994 | Austin, Tex.
+1995-present | (Congress)","Time Period | Location
+--- | ---
+1946-1960 | Austin, Travis County, Tex.
+1960-1964 | Austin, Tex.
+1964-1967 | Austin, Tex.
+1967-1970 | Austin, Tex.
+1973-1985 | (Texas state senate)
+1989-1994 | (Texas state supreme court)
+1989-1994 | Austin, Tex.
+1995-present | (Congress)",0,
+A000378,"A Representative from Iowa; born in Grand Rapids, Kent County, Michigan, April 20, 1965; graduated from Valley High School, West Des Moines, Iowa; B.A., University of Iowa, Iowa City, Iowa, 1987; M.B.A., Northwestern University, Evanston, Ill., 2002; staff, Iowa department of natural resources; staff, Iowa department of management; staff, Iowa department of administrative services; journalist; elected as a Democrat to the One Hundred Sixteenth and to the succeeding Congress (January 3, 2019-January 3, 2023); unsuccessful candidate for reelection to the One Hundred Eighteenth Congress in 2022.","Time Period | Location
+--- | ---
+1965-1979 | Grand Rapids, Kent County, Michigan
+1979-1983 | West Des Moines, Iowa
+1983-1987 | Iowa City, Iowa
+1987-2002 | (staff, various Iowa departments)
+2002-2018 | Evanston, Ill.
+2019-2023 | (Congress)","Time Period | Location
+--- | ---
+1965-1979 | Grand Rapids, Kent County, Michigan
+1979-1983 | West Des Moines, Iowa
+1983-1987 | Iowa City, Iowa
+1987-2002 | (staff, various Iowa departments)
+2000-2002 | Evanston, Ill.
+2019-2023 | (Congress)",3,
+B001274,"a Representative from Alabama; born in Charleston, Charleston County, S.C., April 29, 1954; graduated from Grissom High School, Huntsville, Ala., 1972; B.A., Duke University, Durham, N.C., 1975; J.D., University of Alabama School of Law, Tuscaloosa, Ala., 1978; lawyer, private practice; Tuscaloosa County, Ala., prosecutor, 1978-1980; law clerk, presiding Circuit Court Judge John Snodgrass, 1980-1982; member of the Alabama state house of representatives, 1982-1991; Madison County, Ala., district attorney, 1991-1992; special assistant attorney general, state of Alabama, 1995-2002; commissioner, Madison County, Ala., commission, 1996-2011; elected as a Republican to the One Hundred Twelfth and to the five succeeding Congresses (January 3, 2011-January 3, 2023); was not a candidate for reelection to the One Hundred Eighteenth Congress in 2022, but was an unsuccessful candidate for nomination to the United States Senate.","Time Period | Location
+--- | ---
+1954-1970 | Charleston, Charleston County, S.C.
+1970-1972 | Huntsville, Ala.
+1972-1975 | Durham, N.C.
+1975-1978 | Tuscaloosa, Ala.
+1978-1980 | Tuscaloosa County, Ala.
+1980-1982 | (law clerk, presiding Circuit Court Judge John Snodgrass)
+1982-1991 | (Alabama state house of representatives)
+1991-1992 | Madison County, Ala.
+1995-2002 | (special assistant attorney general, state of Alabama)
+1996-2011 | Madison County, Ala.
+2011-2023 | (Congress)","Time Period | Location
+--- | ---
+1954-1970 | Charleston, Charleston County, S.C.
+1970-1972 | Huntsville, Ala.
+1972-1975 | Durham, N.C.
+1975-1978 | Tuscaloosa, Ala.
+1978-1980 | Tuscaloosa County, Ala.
+1980-1982 | (law clerk, presiding Circuit Court Judge John Snodgrass)
+1982-1991 | (Alabama state house of representatives)
+1991-1992 | Madison County, Ala.
+1995-2002 | (special assistant attorney general, state of Alabama)
+1996-2011 | Madison County, Ala.
+2011-2023 | (Congress)",0,
+J000284,"A Representative from Ohio; born in Cleveland, Cuyahoga County, Ohio, September 10, 1949; graduated from Collinwood High School, Cleveland, Ohio; B.A., Case Western Reserve University, Cleveland, Ohio, 1971; J.D., Case Western Reserve University, Cleveland, Ohio, 1974; elected to Cleveland, Ohio, municipal court, 1981; judge, Court of Common Pleas of Cuyahoga County, Ohio, 1983-1991; prosecutor, Cuyahoga County, Ohio, 1991-1998; elected as a Democrat to the One Hundred Sixth and to the four succeeding Congresses (January 3, 1999-August 20, 2008); chair, Committee on Standards of Official Conduct (One Hundred Tenth Congress); died on August 20, 2008, in Cleveland, Ohio; remains were cremated.","Time Period | Location
+--- | ---
+1949-1965 | Cleveland, Cuyahoga County, Ohio
+1965-1971 | Cleveland, Ohio
+1971-1974 | Cleveland, Ohio
+1981-1983 | Cleveland, Ohio
+1983-1991 | Cuyahoga County, Ohio
+1991-1998 | Cuyahoga County, Ohio
+1999-2008 | (Congress)
+2008 | Cleveland, Ohio","Time Period | Location
+--- | ---
+1949-1965 | Cleveland, Cuyahoga County, Ohio
+1965-1971 | Cleveland, Ohio
+1971-1974 | Cleveland, Ohio
+1981-1983 | Cleveland, Ohio
+1983-1991 | Cuyahoga County, Ohio
+1991-1998 | Cuyahoga County, Ohio
+1999-2008 | (Congress)
+2008 | Cleveland, Ohio",0,
+M001154,"A Representative from North Carolina; born in Fayetteville, N.C., on May 19, 1953; B.A., University of North Carolina, Chapel Hill, N.C., 1975; M.S., London School of Economics, London, England, 1978; J.D., Columbia University, New York, N.Y., 1979; lawyer, private practice; member of the North Carolina state house of representatives, 1992-1994; member of the North Carolina state senate, 1996-2002; elected as a Democrat to the One Hundred Eighth Congress and to the four succeeding Congresses (January 3, 2003-January 3, 2013); was not a candidate for reelection to the One Hundred Thirteenth Congress in 2012.","Time Period | Location
+--- | ---
+1953-1971 | Fayetteville, N.C.
+1971-1975 | Chapel Hill, N.C.
+1975-1978 | London, England
+1978-1979 | New York, N.Y.
+1992-1994 | (North Carolina state house of representatives)
+1996-2002 | (North Carolina state senate)
+2003-2013 | (Congress)","Time Period | Location
+--- | ---
+1953-1971 | Fayetteville, N.C.
+1971-1975 | Chapel Hill, N.C.
+1975-1978 | London, England
+1978-1979 | New York, N.Y.
+1992-1994 | (North Carolina state house of representatives)
+1996-2002 | (North Carolina state senate)
+2003-2013 | (Congress)",0,
+R000614,"A Representative from Texas; born in Bethesda, Montgomery County, Md., August 7, 1972; graduated from Loudon Valley High School, Purcellville, Va., 1990; B.S., University of Virginia, Charlottesville, Va., 1994; M.S., University of Virginia, Charlottesville, Va., 1995; J.D., University of Texas, Austin, Tex., 2003; banking executive; staff, United States Senator John Cornyn of Texas, 2002-2006; special assistant district attorney for the United States Attorney for the Eastern District of Texas; staff, Governor Rick Perry of Texas; director, Texas office of state-federal relations, 2011-2012; staff, United States Senator Ted Cruz of Texas, 2012-2014; first assistant attorney general, office of the attorney general, state of Texas, 2014-2016; professional advocate; nonprofit executive; elected as a Republican to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present).","Time Period | Location
+--- | ---
+1972-1986 | Bethesda, Montgomery County, Md.
+1986-1990 | Purcellville, Va.
+1990-1995 | Charlottesville, Va.
+1999-2003 | Austin, Tex.
+2002-2006 | (staff, United States Senator John Cornyn of Texas)
+2006-2011 | (special assistant district attorney for the United States Attorney for the Eastern District of Texas; staff, Governor Rick Perry of Texas)
+2011-2012 | (director, Texas office of state-federal relations)
+2012-2014 | (staff, United States Senator Ted Cruz of Texas)
+2014-2016 | (first assistant attorney general, office of the attorney general, state of Texas)
+2019-present | (Congress)","Time Period | Location
+--- | ---
+1972-1986 | Bethesda, Montgomery County, Md.
+1986-1990 | Purcellville, Va.
+1990-1995 | Charlottesville, Va.
+1999-2003 | Austin, Tex.
+2002-2006 | (staff, United States Senator John Cornyn of Texas)
+2006-2011 | (special assistant district attorney for the United States Attorney for the Eastern District of Texas; staff, Governor Rick Perry of Texas)
+2011-2012 | (director, Texas office of state-federal relations)
+2012-2014 | (staff, United States Senator Ted Cruz of Texas)
+2014-2016 | (first assistant attorney general, office of the attorney general, state of Texas)
+2019-present | (Congress)",0,
+M000844,"A Representative from West Virginia; born in Fairmont, Marion County, W.Va., May 14, 1943; graduated from Greenbrier Military School, Lewisburg, W.Va., 1962; A.B., College of William and Mary, Williamsburg, Va., 1966; LL.D., West Virginia University, Morgantown, W.Va., 1970; lawyer, private practice; United States Army Reserves, 1970-1983; delegate, Democratic National Convention, 1968, 1972, and 1976; elected as a Democrat to the Ninety-eighth and to the thirteen succeeding Congresses (January 3, 1983-January 3, 2011); unsuccessful candidate for nomination for One Hundred Twelfth Congress in 2010.","Time Period | Location
+--- | ---
+1943-1958 | Fairmont, Marion County, W.Va.
+1958-1962 | Lewisburg, W.Va.
+1962-1966 | Williamsburg, Va.
+1966-1970 | Morgantown, W.Va.
+1970-1983 | (United States Army Reserves)
+1983-2011 | (Congress)","Time Period | Location
+--- | ---
+1943-1958 | Fairmont, Marion County, W.Va.
+1958-1962 | Lewisburg, W.Va.
+1962-1966 | Williamsburg, Va.
+1966-1970 | Morgantown, W.Va.
+1970-1983 | (United States Army Reserves)
+1983-2011 | (Congress)",0,
+L000174,"A Senator from Vermont; born in Montpelier, Washington County, Vt., March 31, 1940; graduated, St. Michael's College, Winooski, Vt., 1961; received J.D. degree from Georgetown University 1964; admitted to the Vermont bar in 1964 and commenced practice in Burlington; State's attorney, Chittenden County, Vt., 1966-1974; elected as a Democrat to the United States Senate in 1974; reelected in 1980, 1986, 1992, 1998, 2004, 2010, and again in 2016, and served from January 3, 1975, to January 3, 2023; president pro tempore (December 17, 2012-January 3, 2015; January 20, 2021-January 3, 2023); chair, Committee on Agriculture, Nutrition and Forestry (One Hundredth through One Hundred Third Congresses), Committee on the Judiciary (One Hundred Seventh Congress [January 3-20, 2001; June 6, 2001-January 3, 2003], One Hundred Tenth to One Hundred Thirteenth Congresses), Committee on Appropriations (One Hundred Seventeenth Congress); was not a candidate for reelection to the Senate in 2022.","Time Period | Location
+--- | ---
+1940-1957 | Montpelier, Washington County, Vt.
+1957-1961 | Winooski, Vt.
+1961-1964 | Georgetown University
+1964-1966 | Burlington, Vt.
+1966-1974 | Chittenden County, Vt.
+1975-2023 | (United States Senate)","Time Period | Location
+--- | ---
+1940-1957 | Montpelier, Washington County, Vt.
+1957-1961 | Winooski, Vt.
+1961-1964 | Georgetown University
+1964-1966 | Burlington, Vt.
+1966-1974 | Chittenden County, Vt.
+1975-2023 | (United States Senate)",0,
+G000587,"A Representative from Texas; born in San Diego, Duval County, Tex., September 6, 1950; graduated from Ben Bolt-Palito Blanco High School, Ben Bolt, Tex.; B.S., Texas Women's University, Denton, Tex., 1972; J.D., Texas Southern University, Houston, Tex., 1978; lawyer; social worker; director and presiding judge, Houston, Tex., municipal court system, 1983-1998; Houston, Tex., Houston city controller, 1998-2003; member of the Harris County, Tex., commissioners court, 2003-2010; member of the Texas state senate, 2013-2018; unsuccessful candidate for nomination to the One Hundred Third Congress in 1992; elected as a Democrat to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present); one of the managers appointed by the House of Representatives in 2020 to conduct the impeachment proceedings of Donald J. Trump, President of the United States.","Time Period | Location
+--- | ---
+1950-1966 | San Diego, Duval County, Tex.
+1966-1968 | Ben Bolt, Tex.
+1968-1972 | Denton, Tex.
+1972-1978 | Houston, Tex.
+1983-1998 | Houston, Tex.
+1998-2003 | Houston, Tex.
+2003-2010 | Harris County, Tex.
+2013-2018 | (Texas state senate)
+2019-present | (Congress)","Time Period | Location
+--- | ---
+1950-1964 | San Diego, Duval County, Tex.
+1964-1968 | Ben Bolt, Tex.
+1968-1972 | Denton, Tex.
+1972-1978 | Houston, Tex.
+1983-1998 | Houston, Tex.
+1998-2003 | Houston, Tex.
+2003-2010 | Harris County, Tex.
+2013-2018 | (Texas state senate)
+2019-present | (Congress)",0,
+W000800,"A Representative from Vermont; born in Springfield, Hampden County, Mass., May 2, 1947; graduated from Cathedral High School, Springfield, Mass.; A.B., College of the Holy Cross, Worcester, Mass.; 1969; J.D., University of California, Berkeley, Calif., 1973; lawyer, private practice; member of the Vermont state senate, 1981-1989, 2002-2007, minority leader, 1983-1985, president pro tempore, 1985-1989, 2003-2007; unsuccessful candidate for nomination to the One Hundred First Congress in 1988; elected as a Democrat to the One Hundred Tenth and to the seven succeeding Congresses (January 3, 2007-January 3, 2023); was not a candidate for reelection to the House of Representatives but was elected as a Democrat to the United States Senate in 2022 for the term ending January 3, 2029.","Time Period | Location
+--- | ---
+1947-1965 | Springfield, Hampden County, Mass.
+1965-1969 | Worcester, Mass.
+1969-1973 | Berkeley, Calif.
+1981-1989 | Vermont (Vermont state senate)
+2002-2007 | Vermont (Vermont state senate)
+2007-2023 | (Congress)
+2023-2029 | (United States Senate)","Time Period | Location
+--- | ---
+1947-1965 | Springfield, Hampden County, Mass.
+1965-1969 | Worcester, Mass.
+1969-1973 | Berkeley, Calif.
+1981-1989 | Vermont (Vermont state senate)
+2002-2007 | Vermont (Vermont state senate)
+2007-2023 | (Congress)
+2023-2029 | (United States Senate)",0,
+B001298,"A Representative from Nebraska; born in Chicago Heights, Cook County, Ill., August 16, 1963; graduated from Grace Baptist High School, Kankakee, Ill.; B.A., Northern Illinois University, DeKalb, Ill., 1984; M.B.A., University of Phoenix, Phoenix, Ariz., 1996; M.A., National War College, Washington, D.C., 2004; United States Air Force, 1985-2014; staff, United States Representative Jeff Fortenberry of Nebraska, 2014-2015; assistant professor, University of Bellevue, Bellevue, Nebr., 2014-2017; elected as a Republican to the One Hundred Fifteenth and to the three succeeding Congresses (January 3, 2017-present).","Time Period | Location
+--- | ---
+1963-1977 | Chicago Heights, Cook County, Ill.
+1977-1980 | Kankakee, Ill.
+1980-1984 | DeKalb, Ill.
+1985-1996 | (United States Air Force)
+1996-2004 | Phoenix, Ariz.
+2004-2014 | Washington, D.C.
+2014-2015 | (staff, United States Representative Jeff Fortenberry of Nebraska)
+2014-2017 | Bellevue, Nebr.
+2017-present | (Congress)","Time Period | Location
+--- | ---
+1963-1977 | Chicago Heights, Cook County, Ill.
+1977-1980 | Kankakee, Ill.
+1980-1984 | DeKalb, Ill.
+1985-2014 | (United States Air Force)
+1994-2006 | Phoenix, Ariz.
+2002-2004 | Washington, D.C.
+2014-2015 | (staff, United States Representative Jeff Fortenberry of Nebraska)
+2014-2017 | Bellevue, Nebr.
+2017-present | (Congress)",3,
+M001151,"A Representative from Pennsylvania; born in Cleveland, Cuyahoga County, Ohio, on September 11, 1952; graduated from Walsh Jesuit High School, Cuyahoga Falls, Ohio; B.S., Wheeling Jesuit University, Wheeling, W.Va., 1974; M.S., Cleveland State University, Cleveland, Ohio, 1976; Ph.D., University of Pittsburgh, Pittsburgh, Pa., 1979; assistant professor of pediatrics, University of Pittsburgh School of Medicine, Pittsburgh, Pa.; associate professor (adjuct), University of Pittsburgh School of Public Health, Pittsburgh, Pa.; psychologist; member of the Pennsylvania state senate, 1996-2002; United States Navy Reserve Medical Service Corps, 2009-2017; elected as a Republican to the One Hundred Eighth and to the seven succeeding Congresses until his resignation on October 21, 2017 (January 3, 2003-October 21, 2017).","Time Period | Location
+--- | ---
+1952-1966 | Cleveland, Cuyahoga County, Ohio
+1966-1970 | Cuyahoga Falls, Ohio
+1970-1974 | Wheeling, W.Va.
+1974-1976 | Cleveland, Ohio
+1976-1979 | Pittsburgh, Pa.
+1979-1996 | Pittsburgh, Pa.
+1996-2002 | (Pennsylvania state senate)
+2003-2017 | (Congress)
+2009-2017 | (United States Navy Reserve Medical Service Corps)","Time Period | Location
+--- | ---
+1952-1966 | Cleveland, Cuyahoga County, Ohio
+1966-1970 | Cuyahoga Falls, Ohio
+1970-1974 | Wheeling, W.Va.
+1974-1976 | Cleveland, Ohio
+1976-1979 | Pittsburgh, Pa.
+1979-1996 | Pittsburgh, Pa.
+1996-2002 | (Pennsylvania state senate)
+2003-2017 | (Congress)
+2009-2017 | (United States Navy Reserve Medical Service Corps)",0,
+M001212,"a Representative from Alabama; born in Coffee County, Ala., September 26, 1966; graduated from Enterprise High School, Enterprise, Ala., 1984; A.S., Enterprise State Junior College, Enterprise, Ala., 1988; attended Troy State University, Troy, Ala.; B.S., Auburn University, Auburn, Ala., 1992; Alabama Army National Guard; entrepreneur; business owner; sales representative; member of the Alabama state house of representatives, 2010-2018; Delegate, Republican National Convention, 2016; unsuccessful candidate for nomination to the One Hundred Sixteenth Congress in 2018; elected as a Republican to the One Hundred Seventeenth and to the succeeding Congress (January 3, 2021-present).","Time Period | Location
+--- | ---
+1966-1980 | Coffee County, Ala.
+1980-1984 | Enterprise, Ala.
+1984-1988 | Enterprise, Ala.
+1988-1992 | Auburn, Ala.
+2010-2018 | (Alabama state house of representatives)
+2021-present | (Congress)","Time Period | Location
+--- | ---
+1966-1980 | Coffee County, Ala.
+1980-1984 | Enterprise, Ala.
+1984-1985 | Troy, Ala.
+1985-1988 | Enterprise, Ala.
+1988-1992 | Auburn, Ala.
+2010-2018 | (Alabama state house of representatives)
+2021-present | (Congress)",2,
+F000476,"a Representative from Florida; born in Orlando, Orange County, Fla., January 17, 1997; graduated from Osceola County School for the Arts, Kissimmee, Fla.; attending Valencia College, Orlando, Fla.; campaign staff; organizer; rideshare driver; elected as a Democrat to the One Hundred Eighteenth Congress (January 3, 2023&ndash;present).","Time Period | Location
+--- | ---
+1997-2011 | Orlando, Orange County, Fla.
+2011-2015 | Kissimmee, Fla.
+2015-Present | Orlando, Fla.
+2023-Present | (Congress)","Time Period | Location
+--- | ---
+1997-2011 | Orlando, Orange County, Fla.
+2011-2015 | Kissimmee, Fla.
+2015-2019 | Orlando, Fla.
+2023-Present | (Congress)",0,
+C000243,"A Representative from Delaware; born in Wilmington, New Castle County, Del., July 2, 1939; graduate of Tower Hill School, Wilmington, Del., 1957; B.S., Hamilton College, Clinton, N.Y., 1961; LL.B., Georgetown University School of Law, Washington, D.C., 1964; lawyer, private practice; deputy attorney general of Delaware, 1965-1966; member of the Delaware state house of representatives, 1966-1967; member of the Delaware state senate, 1968-1976; Lieutenant Governor of Delaware, 1981-1985; Governor of Delaware, 1985-1992; elected as a Republican to the One Hundred Third and to the eight succeeding Congresses (January 3, 1993-January 3, 2011); not a candidate for relection in 2010, but was an unsuccessful nominee to the United States Senate.","Time Period | Location
+--- | ---
+1939-1953 | Wilmington, New Castle County, Del.
+1953-1957 | Wilmington, Del.
+1957-1961 | Clinton, N.Y.
+1961-1964 | Washington, D.C.
+1965-1966 | (Deputy attorney general of Delaware)
+1966-1967 | (Delaware state house of representatives)
+1968-1976 | (Delaware state senate)
+1981-1985 | (Lieutenant Governor of Delaware)
+1985-1992 | (Governor of Delaware)
+1993-2011 | (Congress)","Time Period | Location
+--- | ---
+1939-1953 | Wilmington, New Castle County, Del.
+1953-1957 | Wilmington, Del.
+1957-1961 | Clinton, N.Y.
+1961-1964 | Washington, D.C.
+1965-1966 | (Deputy attorney general of Delaware)
+1966-1967 | (Delaware state house of representatives)
+1968-1976 | (Delaware state senate)
+1981-1985 | (Lieutenant Governor of Delaware)
+1985-1992 | (Governor of Delaware)
+1993-2011 | (Congress)",0,
+H000712,"A Representative from Pennsylvania; born in St. Clair, Schuylkill County, Pa., March 5, 1957; graduated from St. Clair Area High School, St. Clair, Pa., 1975; attended Fork Union Military Academy and the University of Richmond, Richmond, Va.; B.A., Bloomsburg State University, Bloomsburg, Pa., 1980; Schuylkill County, Pa., probation officer; sergeant-at-arms, Pennsylvania state house of representatives; sheriff of Schuylkill County, Pa., 1985-1993; elected as a Democrat to the One Hundred Third and to the nine succeeding Congresses (January 3, 1993-January 3, 2013); unsuccessful candidate for nomination to the One Hundred Thirteenth Congress in 2012.","Time Period | Location
+--- | ---
+1957-1971 | St. Clair, Schuylkill County, Pa.
+1971-1975 | St. Clair, Pa.
+1975-1977 | Richmond, Va.
+1977-1980 | Bloomsburg, Pa.
+1980-1985 | Schuylkill County, Pa.
+1985-1993 | Schuylkill County, Pa. (as sheriff)
+1993-2013 | (Congress)","Time Period | Location
+--- | ---
+1957-1971 | St. Clair, Schuylkill County, Pa.
+1971-1975 | St. Clair, Pa.
+1975-1977 | Richmond, Va.
+1977-1980 | Bloomsburg, Pa.
+1980-1985 | Schuylkill County, Pa.
+1985-1993 | Schuylkill County, Pa. (as sheriff)
+1993-2013 | (Congress)",0,
+S001179,"A Representative from Illinois; born in Morris, Stevens County, Minn., May 28, 1981; attended Illinois Central College, East Peoria, Ill., 1999-2002; B.S., Bradley University, Peoria, Ill., 2002; business owner; entrepreneur; member of the Peoria, Ill. board of education, 2001-2005; president of the Peoria, Ill., board of education, 2004-2005; member of the Illinois state house of representatives, 2005-2008; elected as a Republican to the One Hundred Eleventh and to the three succeeding Congresses until his resignation on March 31, 2015 (January 3, 2009-March 31, 2015).","Time Period | Location
+--- | ---
+1981-1999 | Morris, Stevens County, Minn.
+1999-2002 | East Peoria, Ill.
+2002-2005 | Peoria, Ill.
+2005-2008 | (Illinois state house of representatives)
+2009-2015 | (Congress)","Time Period | Location
+--- | ---
+1981-1999 | Morris, Stevens County, Minn.
+1999-2002 | East Peoria, Ill.
+2002-2005 | Peoria, Ill.
+2005-2008 | (Illinois state house of representatives)
+2009-2015 | (Congress)",0,
+G000589,"a Representative from Texas; born in Nashville, Davidson County, Tenn., December 1, 1982; graduated from Terrell High School, Terrell, Tex., 2001; B.A., University of Texas, Austin, Tex., 2004; B.B.A., University of Texas, Austin, Tex., 2004; insurance broker; member of the Texas state house of representatives, 2011-2015, 2017-2019; elected as a Republican to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present).","Time Period | Location
+--- | ---
+1982-1997 | Nashville, Davidson County, Tenn.
+1997-2001 | Terrell, Tex.
+2001-2004 | Austin, Tex.
+2004-2011 | (Insurance broker, location not specified)
+2011-2015 | (Texas state house of representatives)
+2017-2019 | (Texas state house of representatives)
+2019-present | (Congress)","Time Period | Location
+--- | ---
+1982-1997 | Nashville, Davidson County, Tenn.
+1997-2001 | Terrell, Tex.
+2001-2004 | Austin, Tex.
+2004-2011 | (Insurance broker, location not specified)
+2011-2015 | (Texas state house of representatives)
+2017-2019 | (Texas state house of representatives)
+2019-present | (Congress)",0,
+K000372,"A Representative from Ohio; born in Cleveland, Cuyahoga County, Ohio, April 30, 1949; B.A., Cleveland State University, Cleveland, Ohio, 1977; J.D., Ohio State University, Columbus, Ohio, 1980; lawyer, private practice; Columbus (Ohio) board of education, 1992-1999; president, Columbus (Ohio) board of education, 1999; unsuccessful candidate for the Ohio state senate, 1996; Franklin County (Ohio) board of commissioners, 2001-2008; president, Franklin County (Ohio) board of commissioners, 2005-2007; unsuccessful candidate for the United States House of Representatives in 2006; elected as a Democrat to the One Hundred Eleventh Congress (January 3, 2009-January 3, 2011); unsuccessful candidate for reelection to the One Hundred Twelfth Congress in 2010.","Time Period | Location
+--- | ---
+1949-1967 | Cleveland, Cuyahoga County, Ohio
+1967-1977 | Cleveland, Ohio
+1977-1980 | Columbus, Ohio
+1980-1992 | (lawyer, private practice)
+1992-1999 | Columbus, Ohio (board of education)
+1999-2001 | Columbus, Ohio (president, board of education)
+2001-2008 | Franklin County, Ohio (board of commissioners)
+2005-2007 | Franklin County, Ohio (president, board of commissioners)
+2009-2011 | (Congress)","Time Period | Location
+--- | ---
+1949-1967 | Cleveland, Cuyahoga County, Ohio
+1967-1977 | Cleveland, Ohio
+1977-1980 | Columbus, Ohio
+1980-1992 | (lawyer, private practice)
+1992-1999 | Columbus, Ohio (board of education)
+1999-2001 | Columbus, Ohio (president, board of education)
+2001-2008 | Franklin County, Ohio (board of commissioners)
+2005-2007 | Franklin County, Ohio (president, board of commissioners)
+2009-2011 | (Congress)",0,
+C000116,"A Representative from Utah; born in Salt Lake City, Salt Lake County, Utah, October 20, 1950; B.S., Brigham Young University, Provo, Utah, 1974; attended Harvard School of Business, Cambridge, Mass., 1974-1975; J.D., Brigham Young University, Provo, Utah, 1980; lawyer, private practice; solicitor, Department of Interior, 1983-1986; business owner; business executive; Utah Republican Party finance chairman, 1992-1994; elected as a Republican to the One Hundred Fifth and to the five succeeding Congresses (January 3, 1997-January 3, 2009); one of the managers appointed by the House of Representatives in 1998 to conduct the impeachment proceedings of President William Jefferson Clinton; unsuccessful candidate for nomination to the One Hundred Eleventh Congress in 2008.","Time Period | Location
+--- | ---
+1950-1968 | Salt Lake City, Salt Lake County, Utah
+1968-1974 | Provo, Utah
+1974-1975 | Cambridge, Mass.
+1975-1980 | Provo, Utah
+1983-1986 | (Department of Interior)
+1997-2009 | (Congress)","Time Period | Location
+--- | ---
+1950-1968 | Salt Lake City, Salt Lake County, Utah
+1968-1974 | Provo, Utah
+1974-1975 | Cambridge, Mass.
+1975-1980 | Provo, Utah
+1983-1986 | (Department of Interior)
+1997-2009 | (Congress)",0,
+W000807,"A Representative from Florida; born in Atlanta, Fulton County, Ga., February 7, 1961; graduated from Henry W. Grady High School, Atlanta, Ga., 1979; B.A., University of Tennessee, Knoxville, Tenn., 1983; M.A., Kansas State University, Manhattan, Kans., 1986; United States Army, 1982-2004; M.M.A.S., U.S. Army Command and General Staff College, Fort Leavenworth, Kans.; educator; military adviser to the Afghan army; unsuccessful candidate for election to the One Hundred Eleventh Congress in 2008; elected as a Republican to the One Hundred Twelfth Congress (January 3, 2011-January 3, 2013); unsuccessful candidate for reelection to the One Hundred Thirteenth Congress in 2012; chair, Texas Republican Party, 2020-2021; unsuccessful candidate for nomination for Governor of Texas in 2022.","Time Period | Location
+--- | ---
+1961-1975 | Atlanta, Fulton County, Ga.
+1975-1979 | Atlanta, Ga.
+1979-1983 | Knoxville, Tenn.
+1983-1986 | Manhattan, Kans.
+1986-2004 | (United States Army)
+2004-2010 | (Various locations as military adviser and educator)
+2011-2013 | (Congress)
+2020-2021 | (Chair, Texas Republican Party)","Time Period | Location
+--- | ---
+1961-1975 | Atlanta, Fulton County, Ga.
+1975-1979 | Atlanta, Ga.
+1979-1983 | Knoxville, Tenn.
+1983-1986 | Manhattan, Kans.
+1986-2004 | (United States Army)
+2004-2010 | (Various locations as military adviser and educator)
+2011-2013 | (Congress)
+2020-2021 | (Chair, Texas Republican Party)",0,
+D000610,"a Representative from Florida; born in Bethlehem, Northampton County, Pa., May 7, 1966; graduated from Liberty High School, Bethlehem, Pa., 1984; A.B., University of Michigan, Ann Arbor, Mich., 1988; J.D., University of Michigan, Ann Arbor, Mich., 1990; lawyer, private practice; member of the Florida state senate, 2007-2010; elected as a Democrat to the One Hundred Eleventh Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Robert Wexler, and reelected to the six succeeding Congresses until his resignation on September 30, 2022 (April 13, 2010-September 30, 2022); chair, Committee on Ethics (One Hundred Sixteenth and One Hundred Seventeenth Congresses).","Time Period | Location
+--- | ---
+1966-1980 | Bethlehem, Northampton County, Pa.
+1980-1984 | Bethlehem, Pa.
+1984-1988 | Ann Arbor, Mich.
+1988-1990 | Ann Arbor, Mich.
+2007-2010 | (Florida state senate)
+2010-2022 | (Congress)","Time Period | Location
+--- | ---
+1966-1980 | Bethlehem, Northampton County, Pa.
+1980-1984 | Bethlehem, Pa.
+1984-1988 | Ann Arbor, Mich.
+1988-1990 | Ann Arbor, Mich.
+2007-2010 | (Florida state senate)
+2010-2022 | (Congress)",0,
+S001144,"A Representative from Connecticut; born in Stamford, Fairfield County, Conn., October 18, 1945; graduated Darien High School, Darien, Conn., 1964; B.A., Principia College, Elsah, Ill., 1968; M.B.A., New York University, New York, N.Y., 1974; M.P.A., New York University, New York, N.Y., 1978; Peace Corps, 1968-1970; executive aide to Trumbull, Conn., first selectman Larry Heimann, 1971-1972; member of the Connecticut state house of representatives, 1975-1987; elected as a Republican to the One Hundredth Congress by special election to fill the vacancy caused by the death of United States Representative Stewart B. McKinney and reelected to the ten succeeding Congresses (August 18, 1987-January 3, 2009); unsuccessful candidate for reelection to the One Hundred Eleventh Congress in 2008; unsuccessful candidate for nomination to the United States Senate in 2012.","Time Period | Location
+--- | ---
+1945-1960 | Stamford, Fairfield County, Conn.
+1960-1964 | Darien, Conn.
+1964-1968 | Elsah, Ill.
+1968-1970 | (Peace Corps)
+1970-1974 | New York, N.Y.
+1974-1978 | New York, N.Y.
+1971-1972 | Trumbull, Conn.
+1975-1987 | (Connecticut state house of representatives)
+1987-2009 | (Congress)","Time Period | Location
+--- | ---
+1945-1960 | Stamford, Fairfield County, Conn.
+1960-1964 | Darien, Conn.
+1964-1968 | Elsah, Ill.
+1968-1970 | (Peace Corps)
+1972-1974 | New York, N.Y.
+1974-1978 | New York, N.Y.
+1971-1972 | Trumbull, Conn.
+1975-1987 | (Connecticut state house of representatives)
+1987-2009 | (Congress)",1,
+M001181,"A Representative from Pennsylvania; born in Cheltenham, Montgomery County, Pa., October 20, 1955; graduated from Chestnut Hill Academy, Philadelphia, Pa., 1974; B.A., Bowdoin College, Brunswick, Maine, 1978; J.D., Temple University, Philadelphia, Pa., 1986; lawyer, private practice; United States Attorney for the Eastern District of Pennsylvania, 2001-2008; staff, United States Senator Arlen Specter, 1991-1994; Delaware County, Pa., district attorney, 1996-2001; elected as a Republican to the One Hundred Twelfth and to the three succeeding Congresses until his resignation on April 27, 2018 (January 3, 2011-April 27, 2018).","Time Period | Location
+--- | ---
+1955-1970 | Cheltenham, Montgomery County, Pa.
+1970-1974 | Philadelphia, Pa.
+1974-1978 | Brunswick, Maine
+1978-1986 | Philadelphia, Pa.
+1991-1994 | (staff, United States Senator Arlen Specter)
+1996-2001 | Delaware County, Pa.
+2001-2008 | (United States Attorney for the Eastern District of Pennsylvania)
+2011-2018 | (Congress)","Time Period | Location
+--- | ---
+1955-1970 | Cheltenham, Montgomery County, Pa.
+1970-1974 | Philadelphia, Pa.
+1974-1978 | Brunswick, Maine
+1978-1986 | Philadelphia, Pa.
+1991-1994 | (staff, United States Senator Arlen Specter)
+1996-2001 | Delaware County, Pa.
+2001-2008 | (United States Attorney for the Eastern District of Pennsylvania)
+2011-2018 | (Congress)",0,
+F000467,"A Representative from Iowa; born in Dubuque, Dubuque County, Iowa, December 27, 1988; graduated from Hempstead High School, Dubuque, Iowa, 2007; U.S. Capitol Page School, 2006; B.A., Drake University, Des Moines, Iowa, 2011; legislative assistant; staff, Iowa state house; member of the Iowa state house, 2015-2019; elected as a Democrat to the One Hundred Sixteenth Congress (January 3, 2019-January 3, 2021); unsuccessful candidate for reelection to the One Hundred Seventeenth Congress in 2020; unsuccessful candidate for nomination to the United States Senate in 2022.","Time Period | Location
+--- | ---
+1988-2003 | Dubuque, Dubuque County, Iowa
+2003-2007 | Dubuque, Iowa
+2006-2006 | (U.S. Capitol Page School)
+2007-2011 | Des Moines, Iowa
+2011-2015 | (legislative assistant; staff, Iowa state house)
+2015-2019 | (member of the Iowa state house)
+2019-2021 | (Congress)","Time Period | Location
+--- | ---
+1988-2003 | Dubuque, Dubuque County, Iowa
+2003-2007 | Dubuque, Iowa
+2006-2006 | (U.S. Capitol Page School)
+2007-2011 | Des Moines, Iowa
+2011-2015 | (legislative assistant; staff, Iowa state house)
+2015-2019 | (member of the Iowa state house)
+2019-2021 | (Congress)",0,
+P000419,"A Representative from California; born in Tracy, San Joaquin County, Calif., January 8, 1961; attended California State Polytechnic University, Pomona, Calif., 1979-1982; farmer; rancher; co-founder, San Joaquin County Citizens Land Alliance; member of the Tracy, Calif., city council, 1991-1992; elected as a Republican to the One Hundred Third and to the six succeeding Congresses (January 3, 1993-January 3, 2007); chair, Committee on Resources (One Hundred Eighth and One Hundred Ninth Congress); unsuccessful candidate for reelection to the One Hundred Tenth Congress in 2006; unsuccessful candidate for the Republican nomination for the U.S. House of Representatives, 2010.","Time Period | Location
+--- | ---
+1961-1979 | Tracy, San Joaquin County, Calif.
+1979-1982 | Pomona, Calif.
+1982-1991 | Tracy, San Joaquin County, Calif.
+1991-1992 | Tracy, Calif. (city council)
+1993-2007 | (Congress)","Time Period | Location
+--- | ---
+1961-1979 | Tracy, San Joaquin County, Calif.
+1979-1982 | Pomona, Calif.
+1982-1991 | Tracy, San Joaquin County, Calif.
+1991-1992 | Tracy, Calif. (city council)
+1993-2007 | (Congress)",0,
+J000174,"A Representative from Texas; born in San Antonio, Bexar County, Tex., October 11, 1930; graduated from Woodrow Wilson High School, Dallas, Tex.; B.B.A., Southern Methodist University, Dallas, Tex., 1951; M.S.I.A., George Washington University, Washington, D.C., 1974; United States Air Force, 1950-1979; prisoner of war during the Vietnam War, 1966-1973; decorated combat veteran, received two Silver Stars, two Legions of Merit, the Distinguished Flying Cross, one Bronze Star with Valor, two Purple Hearts, four Air Medals, and three outstanding unit awards; member of the Texas state house of representatives, 1985-1991; elected as a Republican to the One Hundred Second Congress, by special election, to fill the vacancy caused by the resignation of United States Representative Harry Stephen (Steve) Bartlett, and reelected to the One Hundred Third and to the twelve succeeding Congresses (May 18, 1991-January 3, 2019); was not a candidate for reelection to the One Hundred Sixteenth Congress in 2018; died on May 27, 2020, in Plano, Tex.; interment at Restland Memorial Park, Dallas, Tex.","Time Period | Location
+--- | ---
+1930-1946 | San Antonio, Bexar County, Tex.
+1946-1951 | Dallas, Tex.
+1951-1974 | (United States Air Force)
+1974-1979 | (United States Air Force)
+1966-1973 | (Prisoner of war during the Vietnam War)
+1985-1991 | (Member of the Texas state house of representatives)
+1991-2019 | (Congress)
+2020 | Plano, Tex.","Time Period | Location
+--- | ---
+1930-1944 | San Antonio, Bexar County, Tex.
+1944-1951 | Dallas, Tex.
+1951-1974 | (United States Air Force)
+1974-1979 | (United States Air Force)
+1966-1973 | (Prisoner of war during the Vietnam War)
+1985-1991 | (Member of the Texas state house of representatives)
+1991-2019 | (Congress)
+2020 | Plano, Tex.",1,
+C001046,"A Representative from Virginia; born in Richmond, Henrico County, Va., June 6, 1963; B.A., George Washington University, Washington, D.C., 1985; J.D., College of William and Mary, Williamsburg, Va., 1988; M.S., Columbia University, New York, N.Y., 1989; lawyer; small businessman; member of the Virginia state house of delegates, 1992-2001; elected as a Republican to the One Hundred Seventh and to the six succeeding Congresses until his resignation on August 18, 2014 (January 3, 2001-August 18, 2014); unsuccessful candidate for renomination to the One Hundred Fourteenth Congress in 2014; minority whip (One Hundred Eleventh Congress); majority leader (One Hundred Twelfth and One Hundred Thirteenth Congresses).","Time Period | Location
+--- | ---
+1963-1981 | Richmond, Henrico County, Va.
+1981-1985 | Washington, D.C.
+1985-1988 | Williamsburg, Va.
+1988-1989 | New York, N.Y.
+1992-2001 | (Virginia state house of delegates)
+2001-2014 | (Congress)","Time Period | Location
+--- | ---
+1963-1981 | Richmond, Henrico County, Va.
+1981-1985 | Washington, D.C.
+1985-1988 | Williamsburg, Va.
+1988-1989 | New York, N.Y.
+1992-2001 | (Virginia state house of delegates)
+2001-2014 | (Congress)",0,
+F000471,"a Representative from Wisconsin; born in Chicago, Cook County, Ill., November 16, 1963; graduated from Hustisford High School, Hustisford, Wis., 1981; B.S., University of Wisconsin, Oshkosh, Wis., 1985; United States Army Reserve, 1981-2009; newspaper publisher; member of the Wisconsin state senate, 1995-2020, majority leader, 2004, 2011-2012, 2013-2020; elected as a Republican to the One Hundred Seventeenth and to the succeeding Congress (January 3, 2021-present).","Time Period | Location
+--- | ---
+1963-1977 | Chicago, Cook County, Ill.
+1977-1981 | Hustisford, Wis.
+1981-1985 | Oshkosh, Wis.
+1981-2009 | (United States Army Reserve)
+1995-2020 | (Wisconsin state senate)
+2021-present | (Congress)","Time Period | Location
+--- | ---
+1963-1977 | Chicago, Cook County, Ill.
+1977-1981 | Hustisford, Wis.
+1981-1985 | Oshkosh, Wis.
+1981-2009 | (United States Army Reserve)
+1995-2020 | (Wisconsin state senate)
+2021-present | (Congress)",0,
+B001236,"A Senator and a Representative from Arkansas; born in Shreveport, La., December 10, 1950; graduated from Northside High School, Fort Smith, Ark.; attended the University of Arkansas, Fayetteville, Ark., 1969-1972; graduated Southern College of Optometry, 1977; optometrist; business owner; rancher; member of the Rogers, Ark., school board; elected as a Republican to the One Hundred Seventh Congress by special election to fill the vacancy caused by the resignation of United States Representative Asa Hutchinson; reelected to the four succeeding Congresses (November 20, 2001-January 3, 2011); was not a candidate for reelection to the House of Representatives but was elected as a Republican to the United States Senate in 2010; reelected in 2016, and again in 2022 for the term ending January 3, 2029.","Time Period | Location
+--- | ---
+1950-1966 | Shreveport, La.
+1966-1969 | Fort Smith, Ark.
+1969-1972 | Fayetteville, Ark.
+1972-1977 | (Southern College of Optometry)
+1977-2001 | Rogers, Ark.
+2001-2011 | (Congress)
+2011-2029 | (Senate)","Time Period | Location
+--- | ---
+1950-1966 | Shreveport, La.
+1966-1969 | Fort Smith, Ark.
+1969-1972 | Fayetteville, Ark.
+1972-1977 | (Southern College of Optometry)
+1977-2001 | Rogers, Ark.
+2001-2011 | (Congress)
+2011-2029 | (Senate)",0,
+D000230,"a Representative from North Carolina; born in Snow Hill, Greene County, N.C., August 29, 1971; graduated from MacArthur High School, Irving, Tex., 1989; B.S., United States Air Force Academy, Colorado Springs, Colo., 1994; M.S., Central Michigan University, Mt. Pleasant, Mich., 1997; M.A., East Carolina University, Greenville, N.C., 2001; Ed.D., East Carolina University, Greenville, N.C., 2007; United States Air Force, 1994-2001; assistant professor, East Carolina University, Greenville, N.C., 1998-2001; adjunct professor, East Carolina University, Greenville, N.C., 2001-2007; lay minister; Mayor of Snow Hill, N.C., 2001-2008; member of the North Carolina state senate, 2009-2011, 2013-2022; elected as a Democrat to the One Hundred Eighteenth Congress (January 3, 2023-present).","Time Period | Location
+--- | ---
+1971-1985 | Snow Hill, Greene County, N.C.
+1985-1989 | Irving, Tex.
+1989-1994 | Colorado Springs, Colo.
+1994-1997 | Mt. Pleasant, Mich.
+1997-2001 | Greenville, N.C.
+2001-2007 | Greenville, N.C.
+2001-2008 | Snow Hill, N.C.
+2009-2011 | (North Carolina state senate)
+2013-2022 | (North Carolina state senate)
+2023-present | (Congress)","Time Period | Location
+--- | ---
+1971-1985 | Snow Hill, Greene County, N.C.
+1985-1989 | Irving, Tex.
+1989-1994 | Colorado Springs, Colo.
+1994-1997 | Mt. Pleasant, Mich.
+1997-2001 | Greenville, N.C.
+2001-2007 | Greenville, N.C.
+2001-2008 | Snow Hill, N.C.
+2009-2011 | (North Carolina state senate)
+2013-2022 | (North Carolina state senate)
+2023-present | (Congress)",0,
+M001174,"A Representative from New York; born in Staten Island, Richmond County, N.Y., September 12, 1957; graduated from Monsignor Farrell High School, Staten Island, N.Y.; B.A., New York University, New York, N.Y., 1980; A.A. Heidelberg U., Heidelberg, Germany, 1983; J.D. New York University Law School, New York, N.Y., 1985; lawyer, private practice; member, New York city council, 2002-2008; elected as a Democrat to the One Hundred Eleventh Congress (January 3, 2009-January 3, 2011); unsuccessful candidate for reelection to the One Hundred Twelfth Congress in 2010; Staten Island, Richmond County, N.Y. district attorney, 2015-present.","Time Period | Location
+--- | ---
+1957-1971 | Staten Island, Richmond County, N.Y.
+1971-1975 | Staten Island, N.Y.
+1975-1980 | New York, N.Y.
+1980-1983 | Heidelberg, Germany
+1983-1985 | New York, N.Y.
+2002-2008 | (New York city council)
+2009-2011 | (Congress)
+2015-present | (Staten Island, Richmond County, N.Y. district attorney)","Time Period | Location
+--- | ---
+1957-1971 | Staten Island, Richmond County, N.Y.
+1971-1975 | Staten Island, N.Y.
+1975-1980 | New York, N.Y.
+1980-1983 | Heidelberg, Germany
+1983-1985 | New York, N.Y.
+2002-2008 | (New York city council)
+2009-2011 | (Congress)
+2015-present | (Staten Island, Richmond County, N.Y. district attorney)",0,
+K000352,"(Son of John Henry Kyl), a Senator and a Representative from Arizona; born in Oakland, Nebr., April 25, 1942; B.A., University of Arizona, Tucson 1964; LL.B., University of Arizona 1966; admitted to the Arizona State Bar in 1966 and practiced law as a member of Jennings, Strouss and Salmon, in Phoenix 1966-1986; chairman, Phoenix Metropolitan Chamber of Commerce 1984-1985; elected as a Republican to the One Hundredth and to the three succeeding Congresses (January 3, 1987-January 3, 1995); was not a candidate for reelection to the House of Representatives in 1994; elected as a Republican to the United States Senate in 1994; reelected in 2000, and again in 2006, and served from January 3, 1995, to January 3, 2013; Republican party whip (2007-2013); chair, Republican Policy Committee (2003-2007), Republican Conference (2007); was not a candidate for reelection to the Senate in 2012; appointed as a Republican to the United States Senate on September 4, 2018, to fill the vacancy caused by the death of John Sidney McCain, III, for the term ending January 3, 2023; took the oath of office on September 5, 2018, and served until his resignation on December 31, 2018.","Time Period | Location
+--- | ---
+1942-1960 | Oakland, Nebr.
+1960-1964 | Tucson, Ariz.
+1964-1966 | Tucson, Ariz.
+1966-1986 | Phoenix, Ariz.
+1987-1995 | (Congress)
+1995-2013 | (Senate)
+2018 | (Senate)","Time Period | Location
+--- | ---
+1942-1960 | Oakland, Nebr.
+1960-1964 | Tucson, Ariz.
+1964-1966 | Tucson, Ariz.
+1966-1986 | Phoenix, Ariz.
+1987-1995 | (Congress)
+1995-2013 | (Senate)
+2018 | (Senate)",0,
+M001168,"A Representative from Pennsylvania; born in Philadelphia, Philadelphia County, Pa., October 19, 1973; attended Bucks County Community College, Newtown, Pa., 1991-1992; B.S., King's College, Wilkes-Barre, Pa., 1996; J.D., Widener University, Harrisburg, Pa., 1999; United States Army, 1993-2004; United States Army Reserve, 2004-2007; lawyer, private practice; professor; elected as a Democrat to the One Hundred Tenth and to the succeeding Congress (January 3, 2007-January 3, 2011); unsuccessful candidate for reelection to the One Hundred Twelfth Congress in 2010.","Time Period | Location
+--- | ---
+1973-1991 | Philadelphia, Philadelphia County, Pa.
+1991-1992 | Newtown, Pa.
+1992-1996 | Wilkes-Barre, Pa.
+1996-1999 | Harrisburg, Pa.
+1993-2004 | (United States Army)
+2004-2007 | (United States Army Reserve)
+2007-2011 | (Congress)","Time Period | Location
+--- | ---
+1973-1991 | Philadelphia, Philadelphia County, Pa.
+1991-1992 | Newtown, Pa.
+1992-1996 | Wilkes-Barre, Pa.
+1996-1999 | Harrisburg, Pa.
+1993-2004 | (United States Army)
+2004-2007 | (United States Army Reserve)
+2007-2011 | (Congress)",0,
+C000537,"A Representative from South Carolina; born in Sumter, Sumter County, S.C., July 21, 1940; graduated from Mather Academy, Camden, S.C., 1957; B.A., South Carolina State University, Orangeburg, S.C., 1961; teacher; newspaper publisher; employment counselor, South Carolina state employment security commission, 1965-1966; director, Charleston County, S.C., neighborhood youth corps and new careers projects, 1966-1968; executive director, South Carolina state commission for farm workers, 1968-1971; staff, Governor John C. West of South Carolina, 1971-1974; South Carolina human affairs commissioner, 1974-1992; elected as a Democrat to the One Hundred Third and to the fifteen succeeding Congresses (January 3, 1993-present); chair, House Democratic Caucus (One Hundred Ninth Congress); majority whip (One Hundred Tenth, One Hundred Eleventh, One Hundred Sixteenth, and One Hundred Seventeenth Congresses); assistant Democratic leader (One Hundred Twelfth through One Hundred Fifteenth Congresses, and One Hundred Eighteenth Congress).","Time Period | Location
+--- | ---
+1940-1953 | Sumter, Sumter County, S.C.
+1953-1957 | Camden, S.C.
+1957-1961 | Orangeburg, S.C.
+1961-1965 | (teacher; newspaper publisher)
+1965-1966 | (employment counselor, South Carolina state employment security commission)
+1966-1968 | Charleston County, S.C.
+1968-1971 | (executive director, South Carolina state commission for farm workers)
+1971-1974 | (staff, Governor John C. West of South Carolina)
+1974-1992 | (South Carolina human affairs commissioner)
+1993-present | (Congress)","Time Period | Location
+--- | ---
+1940-1953 | Sumter, Sumter County, S.C.
+1953-1957 | Camden, S.C.
+1957-1961 | Orangeburg, S.C.
+1961-1965 | (teacher; newspaper publisher)
+1965-1966 | (employment counselor, South Carolina state employment security commission)
+1966-1968 | Charleston County, S.C.
+1968-1971 | (executive director, South Carolina state commission for farm workers)
+1971-1974 | (staff, Governor John C. West of South Carolina)
+1974-1992 | (South Carolina human affairs commissioner)
+1993-present | (Congress)",0,
+L000447,"A Representative and a Senator from Mississippi; born in Grenada, Grenada County, Miss., October 9, 1941; graduated from Pascagoula public schools; B.P.A., University of Mississippi 1963; J.D., same university 1967; served as field representative for the University of Mississippi 1963-1965; admitted to the Mississippi bar in 1967 and commenced practice in Pascagoula; administrative assistant to United States Representative William M. Colmer 1968-1972; elected as a Republican to the Ninety-third and to the seven succeeding Congresses (January 3, 1973-January 3, 1989); minority whip (1981-1989); elected to the United States Senate in 1988 and reelected in 1994, 2000, and again in 2006 and served from January 3, 1989, until his resignation on December 18, 2007; Republican party whip (1995-1996, 2007); majority leader (1996-January 3, 2001, January 20-June 6, 2001); minority leader (January 3-20, 2001; June 6, 2001-January 6, 2003); chair, Committee on Rules and Administration (One Hundred Eighth and One Hundred Ninth Congresses).","Time Period | Location
+--- | ---
+1941-1955 | Grenada, Grenada County, Miss.
+1955-1959 | Pascagoula, Miss.
+1959-1963 | University of Mississippi
+1963-1965 | (field representative for the University of Mississippi)
+1965-1967 | University of Mississippi
+1967-1968 | Pascagoula, Miss.
+1968-1972 | (administrative assistant to United States Representative William M. Colmer)
+1973-1989 | (Congress)
+1989-2007 | (Senate)","Time Period | Location
+--- | ---
+1941-1955 | Grenada, Grenada County, Miss.
+1955-1959 | Pascagoula, Miss.
+1959-1963 | University of Mississippi
+1963-1965 | (field representative for the University of Mississippi)
+1965-1967 | University of Mississippi
+1967-1968 | Pascagoula, Miss.
+1968-1972 | (administrative assistant to United States Representative William M. Colmer)
+1973-1989 | (Congress)
+1989-2007 | (Senate)",0,

@@ -26,5 +26,18 @@ Time Period | Location
 1939-1944 | (WWII)
 1944-1989 | Seattle, Washinton
 
+Example 3
+
+A Representative from Connecticut; born in Oak Park, Cook County, Ill., August 25, 1959; graduated from Winona High School, Winona, Minn., 1977; A.B., Harvard University, Cambridge, Mass., 1981; J.D., Yale University, New Haven, Conn., 1985; law clerk; lawyer, private practice; professor; member of the Cheshire, Conn., town council, 2005-2008; member of the Connecticut state general assembly, 2008-2010; elected as a Democrat to the One Hundred Thirteenth Congress and to the two succeeding Congresses (January 3, 2013-January 3, 2019); was not a candidate for reelection to the One Hundred Sixteenth Congress.
+Time Period | Location
+--- | ---
+1959-1973 | Oak Park, Cook County, Ill.
+1973-1977 | Winona, Minn.
+1977-1981 | Cambridge, Mass.
+1981-1985 | New Haven, Conn.
+1985-2021 | Private practice and professor
+2005-2008 | Cheshire, Conn.
+2008-2010 | Connecticut
+2013-2019 | Congress
 
 Now try this:

@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>README.md</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+
+<style>
+/* https://github.com/microsoft/vscode/blob/master/extensions/markdown-language-features/media/markdown.css */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+body {
+	font-family: var(--vscode-markdown-font-family, -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif);
+	font-size: var(--vscode-markdown-font-size, 14px);
+	padding: 0 26px;
+	line-height: var(--vscode-markdown-line-height, 22px);
+	word-wrap: break-word;
+}
+
+#code-csp-warning {
+	position: fixed;
+	top: 0;
+	right: 0;
+	color: white;
+	margin: 16px;
+	text-align: center;
+	font-size: 12px;
+	font-family: sans-serif;
+	background-color:#444444;
+	cursor: pointer;
+	padding: 6px;
+	box-shadow: 1px 1px 1px rgba(0,0,0,.25);
+}
+
+#code-csp-warning:hover {
+	text-decoration: none;
+	background-color:#007acc;
+	box-shadow: 2px 2px 2px rgba(0,0,0,.25);
+}
+
+body.scrollBeyondLastLine {
+	margin-bottom: calc(100vh - 22px);
+}
+
+body.showEditorSelection .code-line {
+	position: relative;
+}
+
+body.showEditorSelection .code-active-line:before,
+body.showEditorSelection .code-line:hover:before {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: -12px;
+	height: 100%;
+}
+
+body.showEditorSelection li.code-active-line:before,
+body.showEditorSelection li.code-line:hover:before {
+	left: -30px;
+}
+
+.vscode-light.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.15);
+}
+
+.vscode-light.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(0, 0, 0, 0.40);
+}
+
+.vscode-light.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-dark.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.4);
+}
+
+.vscode-dark.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 255, 255, 0.60);
+}
+
+.vscode-dark.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+.vscode-high-contrast.showEditorSelection .code-active-line:before {
+	border-left: 3px solid rgba(255, 160, 0, 0.7);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line:hover:before {
+	border-left: 3px solid rgba(255, 160, 0, 1);
+}
+
+.vscode-high-contrast.showEditorSelection .code-line .code-line:hover:before {
+	border-left: none;
+}
+
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+select:focus,
+textarea:focus {
+	outline: 1px solid -webkit-focus-ring-color;
+	outline-offset: -1px;
+}
+
+hr {
+	border: 0;
+	height: 2px;
+	border-bottom: 2px solid;
+}
+
+h1 {
+	padding-bottom: 0.3em;
+	line-height: 1.2;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+}
+
+h1, h2, h3 {
+	font-weight: normal;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table > thead > tr > th {
+	text-align: left;
+	border-bottom: 1px solid;
+}
+
+table > thead > tr > th,
+table > thead > tr > td,
+table > tbody > tr > th,
+table > tbody > tr > td {
+	padding: 5px 10px;
+}
+
+table > tbody > tr + tr > td {
+	border-top: 1px solid;
+}
+
+blockquote {
+	margin: 0 7px 0 5px;
+	padding: 0 16px 0 10px;
+	border-left-width: 5px;
+	border-left-style: solid;
+}
+
+code {
+	font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+	font-size: 1em;
+	line-height: 1.357em;
+}
+
+body.wordWrap pre {
+	white-space: pre-wrap;
+}
+
+pre:not(.hljs),
+pre.hljs code > div {
+	padding: 16px;
+	border-radius: 3px;
+	overflow: auto;
+}
+
+pre code {
+	color: var(--vscode-editor-foreground);
+	tab-size: 4;
+}
+
+/** Theming */
+
+.vscode-light pre {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.vscode-dark pre {
+	background-color: rgba(10, 10, 10, 0.4);
+}
+
+.vscode-high-contrast pre {
+	background-color: rgb(0, 0, 0);
+}
+
+.vscode-high-contrast h1 {
+	border-color: rgb(0, 0, 0);
+}
+
+.vscode-light table > thead > tr > th {
+	border-color: rgba(0, 0, 0, 0.69);
+}
+
+.vscode-dark table > thead > tr > th {
+	border-color: rgba(255, 255, 255, 0.69);
+}
+
+.vscode-light h1,
+.vscode-light hr,
+.vscode-light table > tbody > tr + tr > td {
+	border-color: rgba(0, 0, 0, 0.18);
+}
+
+.vscode-dark h1,
+.vscode-dark hr,
+.vscode-dark table > tbody > tr + tr > td {
+	border-color: rgba(255, 255, 255, 0.18);
+}
+
+</style>
+
+<style>
+/* Tomorrow Theme */
+/* http://jmblog.github.com/color-themes-for-google-code-highlightjs */
+/* Original theme - https://github.com/chriskempson/tomorrow-theme */
+
+/* Tomorrow Comment */
+.hljs-comment,
+.hljs-quote {
+	color: #8e908c;
+}
+
+/* Tomorrow Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+	color: #c82829;
+}
+
+/* Tomorrow Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+	color: #f5871f;
+}
+
+/* Tomorrow Yellow */
+.hljs-attribute {
+	color: #eab700;
+}
+
+/* Tomorrow Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+	color: #718c00;
+}
+
+/* Tomorrow Blue */
+.hljs-title,
+.hljs-section {
+	color: #4271ae;
+}
+
+/* Tomorrow Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+	color: #8959a8;
+}
+
+.hljs {
+	display: block;
+	overflow-x: auto;
+	color: #4d4d4c;
+	padding: 0.5em;
+}
+
+.hljs-emphasis {
+	font-style: italic;
+}
+
+.hljs-strong {
+	font-weight: bold;
+}
+</style>
+
+<style>
+/*
+ * Markdown PDF CSS
+ */
+
+ body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Segoe UI", "Ubuntu", "Droid Sans", sans-serif, "Meiryo";
+	padding: 0 12px;
+}
+
+pre {
+	background-color: #f8f8f8;
+	border: 1px solid #cccccc;
+	border-radius: 3px;
+	overflow-x: auto;
+	white-space: pre-wrap;
+	overflow-wrap: break-word;
+}
+
+pre:not(.hljs) {
+	padding: 23px;
+	line-height: 19px;
+}
+
+blockquote {
+	background: rgba(127, 127, 127, 0.1);
+	border-color: rgba(0, 122, 204, 0.5);
+}
+
+.emoji {
+	height: 1.4em;
+}
+
+code {
+	font-size: 14px;
+	line-height: 19px;
+}
+
+/* for inline code */
+:not(pre):not(.hljs) > code {
+	color: #C9AE75; /* Change the old color so it seems less like an error */
+	font-size: inherit;
+}
+
+/* Page Break : use <div class="page"/> to insert page break
+-------------------------------------------------------- */
+.page {
+	page-break-after: always;
+}
+
+</style>
+
+<script src="https://unpkg.com/mermaid/dist/mermaid.min.js"></script>
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+<h1 id="politician-experience-project">politician-experience-project</h1>
+<p>This repo is dedicated to code related to Professor Malmendier's Politician Experience Project. These codes are for tracking the location history of the politicians.</p>
+<h2 id="data-source">Data source</h2>
+<p>The <code>BioguideProfiles</code> folder was downloaded from <a href="https://bioguide.congress.gov/">Biography Directory of the United States</a>.</p>
+<p>The <code>H102_votes.csv</code>, <code>HSall_members.csv</code>, <code>HSall_votes.csv</code> were all downloaded from <a href="https://www.voteview.com/data">Voteview.com</a></p>
+<p>The <code>Lawmaker Location by County-Year, BG and CD (Best Version, June 2019).csv</code> is a past result of Politician Voting project.</p>
+<h2 id="code">Code</h2>
+<p>The first part (101-104) of the project is focused on extracting the birthplaces of the politicians.</p>
+<ul>
+<li><code>101 Generating Bios File.ipynb</code>: takes in all the bioguide <code>json</code> files under <code>BioguideProfiles</code>, and outputs <code>results/bioguide.csv</code>, which contains all information from the json files.</li>
+<li><code>102 Parse birth Places and School.ipynb</code>: takes in <code>results/bioguide.csv</code>, and outputs <code>results/bioguide_birth_places_schools.csv</code> which contains appended birth places and school columns.</li>
+<li><code>103 Geocoding Birthplaces with Google Maps.ipynb</code>: takes in <code>results/bioguide_birth_places_schools.csv</code> and outputs <code>results/geocoded_birthplaces.csv</code>, which added the latitudes and longitudes of the birthplaces. Additionally, to compare the results from the old codes in 2018, this file also takes in <code>tables2018/current_legislators_birth_places_schools.csv</code> and <code>tables2018/historical_legislators_birth_places_schools.csv</code>, and outputs comparison table <code>result/comparison.csv</code>.</li>
+<li><code>104 Extracting Places and Years.ipynb</code>: takes in <code>results/bioguide.csv</code> and <code>prompt.txt</code>, and outputs <code>results/sample_tables.txt</code>, which contains 3 sample tables of time and location generated by ChatGPT.</li>
+</ul>
+<p>The second part (201) of the project uses ChatGPT to generate the location history.</p>
+<ul>
+<li><code>201 Filtering bios.ipynb</code>: takes in <code>results/bioguide.csv</code>, <code>HSall_members.csv</code>, and <code>HSall_votes.csv</code>, and outputs <code>'results/icpsr_bioguide_id_crosswalk.csv</code>, <code>results/full_bios_after109th.csv</code> and <code>results/sample_bios_after109th.csv</code>, which limits the data to the politicians voting in any of the Congresses after the 109th Congress.</li>
+<li><code>202 Generating location history with ChatGPT.ipynb</code>: takes in <code>results/sample_bios_after109th.csv</code> or <code>results/full_bios_after109th.csv</code> and any of the prompts, and outputs the files in the folder <code>gpt_bio_result</code>. (different GPT models and different prompts)</li>
+<li><code>203 Converting timeline.ipynb</code>: takes in a gpt bio result, converts the text result to a table format, and outputs files <code>results/sample_timeline.csv</code> or <code>results/timeline_gpt4_new_full.csv</code>. (depending on the input gpt bio result)</li>
+<li><code>204 Geocoding locations and getting fips</code>: takes in <code>results/timeline_gpt4_new_prompt_full.csv</code>, geocodes the locations, converts to fips, and outputs <code>results/gpt4_new_prompt_full_timeline_and_fips.csv</code> and <code>results/gpt4_new_prompt_fips</code>.</li>
+</ul>
+<h2 id="manual-checks">manual checks</h2>
+<p>The files in this folder are to check the results generated by ChatGPT.</p>
+<h2 id="archives">Archives</h2>
+<ul>
+<li><code>finetune_dataprep.ipynb</code>: takes in <code>samplebios.</code>, and manually generates the tables of time and location for 10 random sample bios for finetuning the model. (not used)</li>
+<li><code>Fixing high school.ipynb</code>: takes in <code>gpt_bio_results/gpt_bio_result_gpt4_new_full.csv</code>, filters the bios that has &quot;high school&quot;, extracts the sentence, and outputs <code>results/high_school.csv</code>.</li>
+<li><code>Comparing GPT and past geocoding result.ipynb</code>: takes in <code>results/sample_timeline.csv</code> and <code>Lawmaker Location by County-Year, BG and CD (Best Version, June 2019).csv</code>,  and outputs <code>results/sample_timeline_fips.csv</code>, <code>results/sample_location_fips.csv</code> and <code>results/sample_compare_fips.csv</code>. It geocodes the locations with Google Maps API, and get the fips with censusgeocode API, then compare with the past result.</li>
+</ul>
+<h2 id="conclusion">Conclusion</h2>
+<p>If you have any questions about the files in this folder, feel free to contact me at <a href="elaine220615@gmail.com">elaine220615@gmail.com</a></p>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+I am tracking the person's location throughout his life. Please generate a table of year and location. The time period can be inferred based on the event described in the sentence, for example, attending a university usually takes 4 years, so you can infer that the person starts staying at the location 4 years prior to graduation; attending a high school usually takes 4 years, so you can infer the person starts staying at the location 4 years prior to graduation.
+
+Example 1
+
+A Representative from Connecticut; born in Oak Park, Cook County, Ill., August 25, 1959; graduated from Winona High School, Winona, Minn., 1977; A.B., Harvard University, Cambridge, Mass., 1981; J.D., Yale University, New Haven, Conn., 1985; law clerk; lawyer, private practice; professor; member of the Cheshire, Conn., town council, 2005-2008; member of the Connecticut state general assembly, 2008-2010; elected as a Democrat to the One Hundred Thirteenth Congress and to the two succeeding Congresses (January 3, 2013-January 3, 2019); was not a candidate for reelection to the One Hundred Sixteenth Congress.
+
+Time Period | Location
+— | —
+1959-1973 | Oak Park, Cook County, Ill.
+1973-1977 | Winona, Minn.
+1977-1981 | Cambridge, Mass.
+1981-1985 | New Haven, Conn.
+1985-2005 | (unknown)
+2005-2008 | Cheshire, Conn.
+2008-2010 | Connecticut
+
+Example 2
+
+A Representative from Oklahoma; born in Jefferson, Grant County, Okla., April 21, 1899, on the claim his father took in the opening of the Cherokee Strip; attended high school at Jefferson and Medford, Okla.; student at Friends University, Wichita, Kans., and the University of Oklahoma at Norman; veteran of the First World War; court clerk of Garfield County, Okla., 1934-1938; studied law, was admitted to the bar in 1936 and commenced the practice of law in Enid, Okla.; municipal judge, Enid, Okla., in 1938; eighth district chairman, ten years; State executive secretary of Republican Party; secretary to Congressman Ross Rizley in 1941; member of Enid Board of Education; elected as a Republican to the Eighty-second and to the ten succeeding Congresses (January 3, 1951-January 3, 1973); was not a candidate for renomination in 1972 to the Ninety-third Congress; was a resident of Midwest City, Okla., where he died August 2, 1980; interment in Memorial Park Cemetery, Enid, Okla.'
+
+Time period | Location
+--- | ---
+1899-1917 | Jefferson, Grant County, Okla.
+1917-1919 | Wichita, Kans.
+1919-1921 | Norman, Okla.
+1921-1934 | (WWI)
+1934-1938 | Garfield County, Okla.
+1938-1980 | Enid, Okla.

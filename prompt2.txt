@@ -1,0 +1,24 @@
+I am tracking the person's location throughout his life. Please generate a table of time and location. 
+
+Example 1
+
+A Representative from Washington; born in Los Angeles, Los Angeles County, Calif., August 23, 1968; graduated from Palisades High School, Pacific Palisades, Calif., 1986; B.A., University of California, Berkeley, Calif., 1991; M.D., University of California, Davis, Calif., 1997; pediatric residency, Lucile Packard Children's Hospital at Stanford University, Palo Alto, Calif., 2000; pediatrician; elected as a Democrat to the One Hundred Sixteenth and to the two succeeding Congresses (January 3, 2019-present).
+
+Time Period | Location
+— | —
+1968-1983 | Los Angeles, Los Angeles County, Calif.
+1983-1986 | Pacific Palisades, Calif.
+1986-1991 | Berkeley, Calif.
+1991-1997 | Davis, Calif.
+1997-2000 | Palo Alto, Calif.
+
+Example 2
+
+a Representative from Alabama; born in Huntsville, Madison County, Ala., May 8, 1970; graduated from Sparkman High School, Harvest, Ala., 1988; B.S., Athens State University, Athens, Ala., 1992; public relations professional; sales representative; emergency medical technician; emergency 9-1-1 dispatcher; member of the Madison County, Ala., commission, 1996-2022, chairman, 2012-2022; elected as a Republican to the One Hundred Eighteenth Congress (January 3, 2023-present).
+
+Time Period | Location
+— | —
+1970-1985 | Huntsville, Madison County, Ala.
+1985-1988 | Harvest, Ala.
+1988-1992 | Athens, Ala.
+1992-2022 | Madison County, Ala.
